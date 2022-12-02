@@ -1,0 +1,4873 @@
+1
+Looking for faces in 1
+Looking for faces in 1
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/1/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/1/B.jpg
+A- Found Mark_Dacey
+B- Found John_Bolton
+0
+Looking for faces in 2
+Looking for faces in 2
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/2/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/2/B.jpg
+A- Found Scott_Wittman
+B- Found Darren_Campel
+0
+Looking for faces in 3
+Looking for faces in 3
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/3/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/3/B.jpg
+A- Found Terrence_Trammell
+B- Found Cruz_Bustamante
+0
+Looking for faces in 4
+Looking for faces in 4
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/4/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/4/B.jpg
+A- Found Charlene_Barshefsky
+B- Found Martin_Keown
+0
+Looking for faces in 5
+Looking for faces in 5
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/5/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/5/B.jpg
+A- Found Betsy_Smith
+B- Found Fernando_Vargas
+0
+Looking for faces in 6
+Looking for faces in 6
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/6/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/6/B.jpg
+A- Found Justin_Marshall
+B- Found Keith_Rodriguez
+0
+Looking for faces in 7
+Looking for faces in 7
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/7/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/7/B.jpg
+A- Found Martin_Scorsese
+A- Found John_Hartson
+B- Found Martin_Scorsese
+0
+Looking for faces in 8
+Looking for faces in 8
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/8/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/8/B.jpg
+A- Found Jon_Gruden
+B- Found Jon_Gruden
+1
+Looking for faces in 9
+Looking for faces in 9
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/9/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/9/B.jpg
+A- Found Bill_Gates
+B- Found Chan_Gailey
+0
+Looking for faces in 10
+Looking for faces in 10
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/10/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/10/B.jpg
+A- Found David_Wells
+B- Found David_Wells
+1
+Looking for faces in 11
+Looking for faces in 11
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/11/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/11/B.jpg
+A- Found Jennifer_Capriati
+B- Found Jennifer_Capriati
+1
+Looking for faces in 12
+Looking for faces in 12
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/12/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/12/B.jpg
+A- Found Jon_Gruden
+B- Found Jon_Gruden
+1
+Looking for faces in 13
+Looking for faces in 13
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/13/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/13/B.jpg
+A- Found Cesar_Gaviria
+B- Found Cesar_Gaviria
+1
+Looking for faces in 14
+Looking for faces in 14
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/14/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/14/B.jpg
+A- Found Joschka_Fischer
+B- Found Alan_Ball
+B- Found Masao_Azuma
+0
+Looking for faces in 15
+Looking for faces in 15
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/15/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/15/B.jpg
+A- Found Justin_Marshall
+B- Found Justin_Marshall
+1
+Looking for faces in 16
+Looking for faces in 16
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/16/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/16/B.jpg
+A- Found Renee_Zellweger
+B- Found Troy_Hudson
+0
+Looking for faces in 17
+Looking for faces in 17
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/17/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/17/B.jpg
+A- Found Hisao_Oguchi
+B- Found Matthew_McConaughey
+0
+Looking for faces in 18
+Looking for faces in 18
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/18/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/18/B.jpg
+A- Found Dominique_de_Villepin
+B- Found Sheila_Copps
+0
+Looking for faces in 19
+Looking for faces in 19
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/19/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/19/B.jpg
+A- Found Janette_Husarova
+B- Found Max_Mayfield
+0
+Looking for faces in 20
+Looking for faces in 20
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/20/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/20/B.jpg
+A- Found Costas_Simitis
+B- Found Joaquim_Rodriguez
+0
+Looking for faces in 21
+Looking for faces in 21
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/21/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/21/B.jpg
+A- Found Michael_Kostelnik
+B- Found Liza_Minnelli
+0
+Looking for faces in 22
+Looking for faces in 22
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/22/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/22/B.jpg
+A- Found Tony_Blair
+B- Found Gordon_Brown
+0
+Looking for faces in 23
+Looking for faces in 23
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/23/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/23/B.jpg
+A- Found Stacey_Jones
+B- Found Tony_Blair
+0
+Looking for faces in 24
+Looking for faces in 24
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/24/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/24/B.jpg
+A- Found Dominique_de_Villepin
+B- Found Stefan_Tafrov
+B- Found Sebastian_Saja
+0
+Looking for faces in 25
+Looking for faces in 25
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/25/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/25/B.jpg
+A- Found Bill_Clinton
+B- Found Bill_Clinton
+1
+Looking for faces in 26
+Looking for faces in 26
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/26/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/26/B.jpg
+A- Found Gerald_Riley
+B- Found Gerald_Riley
+1
+Looking for faces in 27
+Looking for faces in 27
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/27/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/27/B.jpg
+A- Found Cesar_Gaviria
+B- Found Cesar_Gaviria
+1
+Looking for faces in 28
+Looking for faces in 28
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/28/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/28/B.jpg
+A- Found Sharon_Osbourne
+B- Found Walt_Harris
+0
+Looking for faces in 29
+Looking for faces in 29
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/29/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/29/B.jpg
+A- Found Jennifer_Lopez
+B- Found Jennifer_Lopez
+1
+Looking for faces in 30
+Looking for faces in 30
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/30/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/30/B.jpg
+A- Found Pham_Thi_Mai_Phuong
+B- Found Gary_Marshall
+0
+Looking for faces in 31
+Looking for faces in 31
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/31/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/31/B.jpg
+A- Found Prince_William
+B- Found Maureen_Kanka
+0
+Looking for faces in 32
+Looking for faces in 32
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/32/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/32/B.jpg
+A- Found Binyamin_Ben-Eliezer
+B- Found Binyamin_Ben-Eliezer
+1
+Looking for faces in 33
+Looking for faces in 33
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/33/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/33/B.jpg
+A- Found Jennifer_Capriati
+B- Found Isabela_Moraes
+0
+Looking for faces in 34
+Looking for faces in 34
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/34/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/34/B.jpg
+A- Found Charles_Taylor
+B- Found Prince_Claus
+0
+Looking for faces in 35
+Looking for faces in 35
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/35/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/35/B.jpg
+A- Found Michael_Schumacher
+B- Found George_W_Bush
+0
+Looking for faces in 36
+Looking for faces in 36
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/36/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/36/B.jpg
+A- Found Sergei_Ivanov
+B- Found Steve_Spurrier
+0
+Looking for faces in 37
+Looking for faces in 37
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/37/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/37/B.jpg
+A- Found Ronde_Barber
+B- Found Roy_Chaderton
+B- Found Steve_Avery
+0
+Looking for faces in 38
+Looking for faces in 38
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/38/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/38/B.jpg
+A- Found David_McKiernan
+B- Found Lesley_McCulloch
+0
+Looking for faces in 39
+Looking for faces in 39
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/39/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/39/B.jpg
+A- Found Lucia_Kenny_Anthony
+B- Found Arnold_Schwarzenegger
+0
+Looking for faces in 40
+Looking for faces in 40
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/40/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/40/B.jpg
+A- Found George_Robertson
+B- Found George_Robertson
+1
+Looking for faces in 41
+Looking for faces in 41
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/41/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/41/B.jpg
+A- Found Keith_Bishop_Jr
+A- Found Kevin_James
+B- Found Lee_Byung-woong
+0
+Looking for faces in 42
+Looking for faces in 42
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/42/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/42/B.jpg
+A- Found Maria_Shriver
+B- Found Maria_Shriver
+1
+Looking for faces in 43
+Looking for faces in 43
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/43/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/43/B.jpg
+A- Found Ralf_Schumacher
+B- Found Ralf_Schumacher
+B- Found Fabrice_Santoro
+0
+Looking for faces in 44
+Looking for faces in 44
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/44/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/44/B.jpg
+A- Found Maria_Soledad_Alvear_Valenzuela
+B- Found Alicia_Silverstone
+0
+Looking for faces in 45
+Looking for faces in 45
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/45/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/45/B.jpg
+B- Found Britney_Spears
+0
+Looking for faces in 46
+Looking for faces in 46
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/46/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/46/B.jpg
+A- Found Mohammed_Al-Douri
+B- Found David_McKiernan
+0
+Looking for faces in 47
+Looking for faces in 47
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/47/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/47/B.jpg
+A- Found David_Wells
+B- Found David_Wells
+1
+Looking for faces in 48
+Looking for faces in 48
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/48/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/48/B.jpg
+A- Found Brian_Schneider
+B- Found Patrice_Chereau
+0
+Looking for faces in 49
+Looking for faces in 49
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/49/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/49/B.jpg
+A- Found Ron_Dittemore
+B- Found Michael_Leavitt
+B- Found Mark_Wahlberg
+0
+Looking for faces in 50
+Looking for faces in 50
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/50/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/50/B.jpg
+A- Found Nigel_Redden
+B- Found Condoleezza_Rice
+0
+Looking for faces in 51
+Looking for faces in 51
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/51/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/51/B.jpg
+A- Found Jeremy_Greenstock
+B- Found Richard_Gephardt
+0
+Looking for faces in 52
+Looking for faces in 52
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/52/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/52/B.jpg
+A- Found Michael_Douglas
+B- Found Phil_Mickelson
+0
+Looking for faces in 53
+Looking for faces in 53
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/53/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/53/B.jpg
+A- Found Mike_Holmgren
+B- Found Hidetoshi_Nakata
+B- Found Penelope_Taylor
+0
+Looking for faces in 54
+Looking for faces in 54
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/54/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/54/B.jpg
+A- Found Kjell_Magne_Bondevik
+B- Found Kjell_Magne_Bondevik
+1
+Looking for faces in 55
+Looking for faces in 55
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/55/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/55/B.jpg
+A- Found Marwan_Muasher
+A- Found Martin_McCauley
+B- Found Woody_Allen
+0
+Looking for faces in 56
+Looking for faces in 56
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/56/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/56/B.jpg
+A- Found Monique_Ferreira
+B- Found Gen_Meredith
+0
+Looking for faces in 57
+Looking for faces in 57
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/57/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/57/B.jpg
+A- Found Brandon_Knight
+B- Found Shane_Mosley
+0
+Looking for faces in 58
+Looking for faces in 58
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/58/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/58/B.jpg
+A- Found Michael_Jackson
+B- Found Michael_Jackson
+1
+Looking for faces in 59
+Looking for faces in 59
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/59/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/59/B.jpg
+A- Found Rebekah_Chantay_Revels
+B- Found Tamara_Stokes
+0
+Looking for faces in 60
+Looking for faces in 60
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/60/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/60/B.jpg
+A- Found Trisha_Meili
+A- Found Jack_Straw
+A- Found Ray_Allen
+B- Found Zhu_Rongji
+0
+Looking for faces in 61
+Looking for faces in 61
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/61/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/61/B.jpg
+A- Found Michael_Jackson
+B- Found Michael_Jackson
+1
+Looking for faces in 62
+Looking for faces in 62
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/62/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/62/B.jpg
+A- Found Serena_Williams
+B- Found Flavia_Pennetta
+0
+Looking for faces in 63
+Looking for faces in 63
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/63/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/63/B.jpg
+A- Found Ahmet_Necdet_Sezer
+A- Found Tommy_Franks
+A- Found Arminio_Fraga
+B- Found Arminio_Fraga
+1
+Looking for faces in 64
+Looking for faces in 64
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/64/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/64/B.jpg
+A- Found Mike_Sherman
+B- Found Susan_Whelan
+0
+Looking for faces in 65
+Looking for faces in 65
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/65/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/65/B.jpg
+A- Found Tom_Ridge
+B- Found Ricky_Ponting
+0
+Looking for faces in 66
+Looking for faces in 66
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/66/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/66/B.jpg
+A- Found Aiysha_Smith
+B- Found Gabrielle_Union
+0
+Looking for faces in 67
+Looking for faces in 67
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/67/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/67/B.jpg
+B- Found Gary_Forsee
+B- Found George_W_Bush
+0
+Looking for faces in 68
+Looking for faces in 68
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/68/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/68/B.jpg
+A- Found Mike_Martz
+B- Found James_McPherson
+0
+Looking for faces in 69
+Looking for faces in 69
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/69/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/69/B.jpg
+A- Found Darren_Campel
+B- Found Alvaro_Noboa
+0
+Looking for faces in 70
+Looking for faces in 70
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/70/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/70/B.jpg
+A- Found Mike_Maroth
+B- Found Eve_Pelletier
+0
+Looking for faces in 71
+Looking for faces in 71
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/71/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/71/B.jpg
+A- Found Andy_Griffith
+B- Found Frederique_van_der_Wal
+B- Found Sarah_Hughes
+0
+Looking for faces in 72
+Looking for faces in 72
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/72/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/72/B.jpg
+A- Found Mark_Dacey
+B- Found Jason_Clermont
+0
+Looking for faces in 73
+Looking for faces in 73
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/73/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/73/B.jpg
+A- Found Joschka_Fischer
+B- Found Gustavo_Franco
+0
+Looking for faces in 74
+Looking for faces in 74
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/74/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/74/B.jpg
+A- Found Thomas_Weston
+B- Found Ralf_Schumacher
+0
+Looking for faces in 75
+Looking for faces in 75
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/75/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/75/B.jpg
+A- Found Warren_Buffett
+B- Found Andy_Griggs
+0
+Looking for faces in 76
+Looking for faces in 76
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/76/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/76/B.jpg
+A- Found Jacqueline_Obradors
+B- Found Lesley_McCulloch
+0
+Looking for faces in 77
+Looking for faces in 77
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/77/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/77/B.jpg
+A- Found Jan_Ullrich
+B- Found Bill_Paxton
+0
+Looking for faces in 78
+Looking for faces in 78
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/78/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/78/B.jpg
+A- Found Silvan_Shalom
+B- Found Cesar_Gaviria
+0
+Looking for faces in 79
+Looking for faces in 79
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/79/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/79/B.jpg
+A- Found Ricky_Ponting
+B- Found Warren_Buffett
+0
+Looking for faces in 80
+Looking for faces in 80
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/80/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/80/B.jpg
+A- Found Ariel_Sharon
+B- Found Vicente_Fernandez
+0
+Looking for faces in 81
+Looking for faces in 81
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/81/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/81/B.jpg
+A- Found King_Abdullah_II
+B- Found Ricky_Ponting
+0
+Looking for faces in 82
+Looking for faces in 82
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/82/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/82/B.jpg
+A- Found David_McKiernan
+B- Found Heidi_Fleiss
+0
+Looking for faces in 83
+Looking for faces in 83
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/83/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/83/B.jpg
+A- Found Jean_Chretien
+B- Found John_Sweeney
+0
+Looking for faces in 84
+Looking for faces in 84
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/84/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/84/B.jpg
+A- Found Patti_Labelle
+0
+Looking for faces in 85
+Looking for faces in 85
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/85/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/85/B.jpg
+A- Found Michael_Jackson
+B- Found Michael_Jackson
+1
+Looking for faces in 86
+Looking for faces in 86
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/86/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/86/B.jpg
+A- Found Arminio_Fraga
+B- Found Arminio_Fraga
+1
+Looking for faces in 87
+Looking for faces in 87
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/87/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/87/B.jpg
+A- Found Arantxa_Sanchez-Vicario
+B- Found Marlene_Weingartner
+0
+Looking for faces in 88
+Looking for faces in 88
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/88/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/88/B.jpg
+A- Found Anna_Kournikova
+B- Found Gordon_Brown
+0
+Looking for faces in 89
+Looking for faces in 89
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/89/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/89/B.jpg
+A- Found Steve_Lenard
+B- Found Carlos_Ruiz
+0
+Looking for faces in 90
+Looking for faces in 90
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/90/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/90/B.jpg
+A- Found Oprah_Winfrey
+B- Found Oprah_Winfrey
+1
+Looking for faces in 91
+Looking for faces in 91
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/91/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/91/B.jpg
+A- Found Hisao_Oguchi
+B- Found Pham_Thi_Mai_Phuong
+0
+Looking for faces in 92
+Looking for faces in 92
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/92/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/92/B.jpg
+A- Found David_Coulthard
+B- Found Bill_Gates
+0
+Looking for faces in 93
+Looking for faces in 93
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/93/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/93/B.jpg
+A- Found Nawabzada_Nasrullah_Khan
+B- Found Norodom_Sihanouk
+0
+Looking for faces in 94
+Looking for faces in 94
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/94/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/94/B.jpg
+A- Found Oswald_Gruebel
+B- Found Julius_Barnes
+0
+Looking for faces in 95
+Looking for faces in 95
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/95/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/95/B.jpg
+A- Found Mike_Weir
+B- Found Yuvraj_Singh
+0
+Looking for faces in 96
+Looking for faces in 96
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/96/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/96/B.jpg
+A- Found Mike_Martz
+B- Found William_Burns
+0
+Looking for faces in 97
+Looking for faces in 97
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/97/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/97/B.jpg
+A- Found Princess_Aiko
+B- Found Elizabeth_Taylor
+0
+Looking for faces in 98
+Looking for faces in 98
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/98/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/98/B.jpg
+A- Found Allison_Janney
+B- Found Danny_Ainge
+B- Found Didier_Defago
+0
+Looking for faces in 99
+Looking for faces in 99
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/99/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/99/B.jpg
+A- Found Robert_Blake
+B- Found Robert_Blake
+1
+Looking for faces in 100
+Looking for faces in 100
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/100/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/100/B.jpg
+A- Found Peter_Hollingworth
+B- Found Tony_Bennett
+0
+Looking for faces in 101
+Looking for faces in 101
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/101/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/101/B.jpg
+A- Found Claire_Leger
+B- Found Ruano_Pascual
+0
+Looking for faces in 102
+Looking for faces in 102
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/102/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/102/B.jpg
+A- Found Craig_Wilson
+B- Found Boris_Becker
+0
+Looking for faces in 103
+Looking for faces in 103
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/103/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/103/B.jpg
+A- Found Ronald_Post
+B- Found Hans_Blix
+0
+Looking for faces in 104
+Looking for faces in 104
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/104/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/104/B.jpg
+A- Found Hermann_Maier
+B- Found Reggie_Sanders
+0
+Looking for faces in 105
+Looking for faces in 105
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/105/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/105/B.jpg
+A- Found Zhu_Rongji
+B- Found Zhu_Rongji
+1
+Looking for faces in 106
+Looking for faces in 106
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/106/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/106/B.jpg
+A- Found Robert_Blake
+B- Found Robert_Blake
+1
+Looking for faces in 107
+Looking for faces in 107
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/107/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/107/B.jpg
+A- Found Mian_Khursheed_Mehmood_Kasuri
+B- Found Norah_Jones
+0
+Looking for faces in 108
+Looking for faces in 108
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/108/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/108/B.jpg
+A- Found Sushma_Swaraj
+B- Found Michael_Schumacher
+0
+Looking for faces in 109
+Looking for faces in 109
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/109/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/109/B.jpg
+A- Found Spencer_Abraham
+B- Found Hugo_Chavez
+0
+Looking for faces in 110
+Looking for faces in 110
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/110/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/110/B.jpg
+A- Found Daniel_Montenegro
+B- Found Pascal_Rheaume
+0
+Looking for faces in 111
+Looking for faces in 111
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/111/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/111/B.jpg
+A- Found Ronde_Barber
+B- Found Janette_Husarova
+0
+Looking for faces in 112
+Looking for faces in 112
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/112/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/112/B.jpg
+A- Found Bill_Clinton
+B- Found Bill_Clinton
+1
+Looking for faces in 113
+Looking for faces in 113
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/113/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/113/B.jpg
+A- Found Gerhard_Schroeder
+B- Found Rick_Wagoner
+0
+Looking for faces in 114
+Looking for faces in 114
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/114/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/114/B.jpg
+A- Found Mireya_Moscoso
+B- Found Richard_Gephardt
+0
+Looking for faces in 115
+Looking for faces in 115
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/115/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/115/B.jpg
+A- Found Mike_Sherman
+B- Found Blythe_Hartley
+0
+Looking for faces in 116
+Looking for faces in 116
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/116/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/116/B.jpg
+A- Found Syed_Ibrahim
+B- Found Jaime_Pressly
+0
+Looking for faces in 117
+Looking for faces in 117
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/117/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/117/B.jpg
+A- Found Lokendra_Bahadur_Chand
+A- Found Gennifer_Flowers
+B- Found Felipe_De_Borbon
+0
+Looking for faces in 118
+Looking for faces in 118
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/118/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/118/B.jpg
+A- Found Marianne_Stanley
+B- Found James_Blake
+0
+Looking for faces in 119
+Looking for faces in 119
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/119/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/119/B.jpg
+A- Found Pascal_Rheaume
+B- Found Chan_Gailey
+0
+Looking for faces in 120
+Looking for faces in 120
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/120/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/120/B.jpg
+A- Found Luis_Figo
+B- Found Stacey_Jones
+0
+Looking for faces in 121
+Looking for faces in 121
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/121/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/121/B.jpg
+A- Found John_Mabry
+B- Found Trent_Lott
+0
+Looking for faces in 122
+Looking for faces in 122
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/122/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/122/B.jpg
+A- Found Kevin_Costner
+A- Found Alvaro_Uribe
+B- Found Tony_Blair
+0
+Looking for faces in 123
+Looking for faces in 123
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/123/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/123/B.jpg
+A- Found Ariel_Sharon
+B- Found Ricky_Quick
+0
+Looking for faces in 124
+Looking for faces in 124
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/124/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/124/B.jpg
+A- Found Marianne_Stanley
+B- Found Marianne_Stanley
+1
+Looking for faces in 125
+Looking for faces in 125
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/125/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/125/B.jpg
+A- Found Luo_Linquan
+A- Found Megawati_Sukarnoputri
+B- Found Kjell_Magne_Bondevik
+0
+Looking for faces in 126
+Looking for faces in 126
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/126/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/126/B.jpg
+A- Found Felix_Doh
+A- Found Henry_Suazo
+B- Found Sharon_Stone
+0
+Looking for faces in 127
+Looking for faces in 127
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/127/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/127/B.jpg
+A- Found Zara_Akhmadova
+B- Found Susan_Whelan
+0
+Looking for faces in 128
+Looking for faces in 128
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/128/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/128/B.jpg
+A- Found Saddam_Hussein
+B- Found Jesse_Ventura
+0
+Looking for faces in 129
+Looking for faces in 129
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/129/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/129/B.jpg
+A- Found Richard_Jefferson
+B- Found Albert_Pujols
+B- Found Joe_Gatti
+0
+Looking for faces in 130
+Looking for faces in 130
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/130/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/130/B.jpg
+A- Found George_W_Bush
+B- Found George_W_Bush
+1
+Looking for faces in 131
+Looking for faces in 131
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/131/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/131/B.jpg
+A- Found Jesse_James
+B- Found Manuel_Llorente
+0
+Looking for faces in 132
+Looking for faces in 132
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/132/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/132/B.jpg
+A- Found Vadim_Strogalev
+B- Found Richard_Virenque
+0
+Looking for faces in 133
+Looking for faces in 133
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/133/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/133/B.jpg
+A- Found Ai_Sugiyama
+B- Found Ai_Sugiyama
+1
+Looking for faces in 134
+Looking for faces in 134
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/134/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/134/B.jpg
+A- Found Sheryl_Crow
+B- Found Tia_Mowry
+0
+Looking for faces in 135
+Looking for faces in 135
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/135/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/135/B.jpg
+A- Found George_Robertson
+B- Found Rainer_Schuettler
+0
+Looking for faces in 136
+Looking for faces in 136
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/136/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/136/B.jpg
+A- Found Chen_Kaige
+B- Found Candie_Kung
+0
+Looking for faces in 137
+Looking for faces in 137
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/137/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/137/B.jpg
+A- Found Lynn_Redgrave
+B- Found Lynn_Redgrave
+1
+Looking for faces in 138
+Looking for faces in 138
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/138/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/138/B.jpg
+A- Found Enrique_Bolanos
+A- Found Jerry_Springer
+B- Found Michael_Jackson
+0
+Looking for faces in 139
+Looking for faces in 139
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/139/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/139/B.jpg
+A- Found Yuvraj_Singh
+B- Found Junichiro_Koizumi
+0
+Looking for faces in 140
+Looking for faces in 140
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/140/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/140/B.jpg
+A- Found Orrin_Hatch
+B- Found Lubomir_Zaoralek
+0
+Looking for faces in 141
+Looking for faces in 141
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/141/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/141/B.jpg
+A- Found Bono
+B- Found Kim_Ryong-sung
+0
+Looking for faces in 142
+Looking for faces in 142
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/142/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/142/B.jpg
+A- Found Marricia_Tate
+B- Found John_Rowland
+0
+Looking for faces in 143
+Looking for faces in 143
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/143/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/143/B.jpg
+A- Found Jodie_Henry
+B- Found Chan_Gailey
+0
+Looking for faces in 144
+Looking for faces in 144
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/144/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/144/B.jpg
+A- Found Nigel_Redden
+B- Found Tia_Mowry
+0
+Looking for faces in 145
+Looking for faces in 145
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/145/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/145/B.jpg
+A- Found Butch_Davis
+B- Found Yoriko_Kawaguchi
+0
+Looking for faces in 146
+Looking for faces in 146
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/146/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/146/B.jpg
+A- Found Phil_Jackson
+B- Found Ben_Affleck
+0
+Looking for faces in 147
+Looking for faces in 147
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/147/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/147/B.jpg
+A- Found Bill_McBride
+B- Found Bill_McBride
+1
+Looking for faces in 148
+Looking for faces in 148
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/148/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/148/B.jpg
+A- Found Maria_Shriver
+B- Found Maria_Shriver
+1
+Looking for faces in 149
+Looking for faces in 149
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/149/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/149/B.jpg
+A- Found Jaromir_Jagr
+B- Found Ravan_AG_Farhadi
+0
+Looking for faces in 150
+Looking for faces in 150
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/150/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/150/B.jpg
+A- Found Adrien_Brody
+B- Found Jay_Garner
+0
+Looking for faces in 151
+Looking for faces in 151
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/151/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/151/B.jpg
+A- Found Rolf_Eckrodt
+B- Found Larry_Pleau
+0
+Looking for faces in 152
+Looking for faces in 152
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/152/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/152/B.jpg
+A- Found Sergio_Vieira_De_Mello
+B- Found Vadim_Strogalev
+0
+Looking for faces in 153
+Looking for faces in 153
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/153/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/153/B.jpg
+A- Found Maria_Soledad_Alvear_Valenzuela
+B- Found Janette_Husarova
+0
+Looking for faces in 154
+Looking for faces in 154
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/154/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/154/B.jpg
+A- Found Kofi_Annan
+B- Found Arantxa_Sanchez-Vicario
+0
+Looking for faces in 155
+Looking for faces in 155
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/155/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/155/B.jpg
+A- Found Shavon_Earp
+B- Found Shavon_Earp
+1
+Looking for faces in 156
+Looking for faces in 156
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/156/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/156/B.jpg
+A- Found Allison_Janney
+B- Found Jim_Hahn
+0
+Looking for faces in 157
+Looking for faces in 157
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/157/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/157/B.jpg
+A- Found Tonga
+B- Found John_Ashcroft
+0
+Looking for faces in 158
+Looking for faces in 158
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/158/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/158/B.jpg
+A- Found Lokendra_Bahadur_Chand
+A- Found Gennifer_Flowers
+B- Found Bud_Selig
+0
+Looking for faces in 159
+Looking for faces in 159
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/159/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/159/B.jpg
+A- Found Thomas_Rupprath
+B- Found Imad_Moustapha
+0
+Looking for faces in 160
+Looking for faces in 160
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/160/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/160/B.jpg
+A- Found Romano_Prodi
+B- Found Condoleezza_Rice
+0
+Looking for faces in 161
+Looking for faces in 161
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/161/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/161/B.jpg
+A- Found Winona_Ryder
+A- Found Justin_Guarini
+B- Found Ed_Smart
+B- Found Elizabeth_Smart
+0
+Looking for faces in 162
+Looking for faces in 162
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/162/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/162/B.jpg
+A- Found Yuvraj_Singh
+B- Found Mark_Schweiker
+0
+Looking for faces in 163
+Looking for faces in 163
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/163/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/163/B.jpg
+A- Found Winona_Ryder
+B- Found Jeffrey_Jones
+0
+Looking for faces in 164
+Looking for faces in 164
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/164/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/164/B.jpg
+A- Found Stacey_Jones
+B- Found Kevin_Costner
+B- Found Alvaro_Uribe
+0
+Looking for faces in 165
+Looking for faces in 165
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/165/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/165/B.jpg
+A- Found Anja_Paerson
+B- Found Mike_Sherman
+0
+Looking for faces in 166
+Looking for faces in 166
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/166/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/166/B.jpg
+A- Found Camilla_Parker_Bowles
+B- Found Hootie_Johnson
+0
+Looking for faces in 167
+Looking for faces in 167
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/167/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/167/B.jpg
+A- Found Scott_Wittman
+B- Found Hidetoshi_Nakata
+B- Found Penelope_Taylor
+0
+Looking for faces in 168
+Looking for faces in 168
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/168/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/168/B.jpg
+A- Found Herb_Sendek
+B- Found Tia_Mowry
+0
+Looking for faces in 169
+Looking for faces in 169
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/169/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/169/B.jpg
+A- Found Maria_Shriver
+B- Found Maria_Shriver
+1
+Looking for faces in 170
+Looking for faces in 170
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/170/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/170/B.jpg
+A- Found Bill_McBride
+B- Found Bill_McBride
+1
+Looking for faces in 171
+Looking for faces in 171
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/171/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/171/B.jpg
+A- Found Raja_Qureshi
+B- Found Zarai_Toledo
+0
+Looking for faces in 172
+Looking for faces in 172
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/172/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/172/B.jpg
+A- Found John_Ashcroft
+A- Found Asa_Hutchinson
+B- Found John_Ashcroft
+0
+Looking for faces in 173
+Looking for faces in 173
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/173/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/173/B.jpg
+A- Found Jose_Dirceu
+B- Found Jorge_Batlle
+0
+Looking for faces in 174
+Looking for faces in 174
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/174/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/174/B.jpg
+A- Found Mike_Krzyzewski
+B- Found Nadia_Petrova
+0
+Looking for faces in 175
+Looking for faces in 175
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/175/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/175/B.jpg
+A- Found Aiysha_Smith
+B- Found Rebekah_Chantay_Revels
+0
+Looking for faces in 176
+Looking for faces in 176
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/176/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/176/B.jpg
+A- Found Alicia_Silverstone
+B- Found King_Bhumibol_Adulyadej
+0
+Looking for faces in 177
+Looking for faces in 177
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/177/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/177/B.jpg
+A- Found Marwan_Muasher
+A- Found Martin_McCauley
+B- Found Tracee_Treadwell
+0
+Looking for faces in 178
+Looking for faces in 178
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/178/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/178/B.jpg
+A- Found Mary_Anne_Souza
+B- Found Queen_Elizabeth_II
+0
+Looking for faces in 179
+Looking for faces in 179
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/179/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/179/B.jpg
+A- Found Jaromir_Jagr
+B- Found Jennifer_Capriati
+0
+Looking for faces in 180
+Looking for faces in 180
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/180/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/180/B.jpg
+A- Found Michael_Jackson
+B- Found Michael_Jackson
+1
+Looking for faces in 181
+Looking for faces in 181
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/181/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/181/B.jpg
+A- Found Bill_Clinton
+B- Found Bill_Clinton
+1
+Looking for faces in 182
+Looking for faces in 182
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/182/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/182/B.jpg
+A- Found Mark_Philippoussis
+B- Found David_Beckham
+0
+Looking for faces in 183
+Looking for faces in 183
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/183/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/183/B.jpg
+A- Found Elvis_Stojko
+A- Found Hermes_Gamonal
+B- Found Bill_Stapleton
+B- Found Deb_Santos
+0
+Looking for faces in 184
+Looking for faces in 184
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/184/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/184/B.jpg
+A- Found Pierce_Brosnan
+B- Found Pierce_Brosnan
+1
+Looking for faces in 185
+Looking for faces in 185
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/185/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/185/B.jpg
+A- Found Michael_Bloomberg
+B- Found Michael_Bloomberg
+1
+Looking for faces in 186
+Looking for faces in 186
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/186/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/186/B.jpg
+A- Found George_W_Bush
+B- Found Jon_Corzine
+0
+Looking for faces in 187
+Looking for faces in 187
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/187/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/187/B.jpg
+A- Found Pat_Summerall
+B- Found Tom_Daschle
+0
+Looking for faces in 188
+Looking for faces in 188
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/188/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/188/B.jpg
+A- Found Justin_Marshall
+B- Found Guillermo_Coria
+0
+Looking for faces in 189
+Looking for faces in 189
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/189/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/189/B.jpg
+A- Found Michael_Killeen
+B- Found Zach_Safrin
+0
+Looking for faces in 190
+Looking for faces in 190
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/190/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/190/B.jpg
+A- Found Adrien_Brody
+B- Found Arlen_Specter
+0
+Looking for faces in 191
+Looking for faces in 191
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/191/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/191/B.jpg
+A- Found Filippo_Inzaghi
+B- Found Ricardo_Mayorga
+0
+Looking for faces in 192
+Looking for faces in 192
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/192/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/192/B.jpg
+A- Found Eliza_Dushku
+B- Found Frederique_van_der_Wal
+B- Found Sarah_Hughes
+0
+Looking for faces in 193
+Looking for faces in 193
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/193/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/193/B.jpg
+A- Found Cheryl_Ford
+B- Found Danny_Ainge
+B- Found Didier_Defago
+0
+Looking for faces in 194
+Looking for faces in 194
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/194/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/194/B.jpg
+A- Found John_Negroponte
+B- Found Jon_Gruden
+0
+Looking for faces in 195
+Looking for faces in 195
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/195/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/195/B.jpg
+A- Found Filippo_Inzaghi
+B- Found Ricardo_Mayorga
+0
+Looking for faces in 196
+Looking for faces in 196
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/196/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/196/B.jpg
+A- Found David_Kelly
+B- Found Zach_Parise
+B- Found Joe_Calzaghe
+0
+Looking for faces in 197
+Looking for faces in 197
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/197/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/197/B.jpg
+A- Found David_Wells
+B- Found Paul_Luvera
+0
+Looking for faces in 198
+Looking for faces in 198
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/198/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/198/B.jpg
+A- Found Cesar_Gaviria
+B- Found Cesar_Gaviria
+1
+Looking for faces in 199
+Looking for faces in 199
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/199/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/199/B.jpg
+A- Found Felix_Mantilla
+B- Found Ricardo_Mayorga
+0
+Looking for faces in 200
+Looking for faces in 200
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/200/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/200/B.jpg
+A- Found Sophia_Loren
+B- Found Mireya_Moscoso
+0
+Looking for faces in 201
+Looking for faces in 201
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/201/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/201/B.jpg
+A- Found Yoriko_Kawaguchi
+B- Found Joe_Calzaghe
+0
+Looking for faces in 202
+Looking for faces in 202
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/202/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/202/B.jpg
+A- Found Mehdi_Baala
+B- Found Ajit_Agarkar
+0
+Looking for faces in 203
+Looking for faces in 203
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/203/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/203/B.jpg
+A- Found Allen_Rock
+B- Found Daniel_Montenegro
+0
+Looking for faces in 204
+Looking for faces in 204
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/204/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/204/B.jpg
+A- Found Makiko_Tanaka
+B- Found Carlos_Juarez
+0
+Looking for faces in 205
+Looking for faces in 205
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/205/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/205/B.jpg
+A- Found Melanie_Griffith
+A- Found Heather_Mills
+B- Found Heather_Mills
+1
+Looking for faces in 206
+Looking for faces in 206
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/206/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/206/B.jpg
+A- Found Kathleen_Kennedy_Townsend
+B- Found Marlene_Weingartner
+0
+Looking for faces in 207
+Looking for faces in 207
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/207/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/207/B.jpg
+A- Found Tommy_Franks
+B- Found Larry_Pleau
+0
+Looking for faces in 208
+Looking for faces in 208
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/208/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/208/B.jpg
+A- Found Jay_Garner
+B- Found John_Sweeney
+0
+Looking for faces in 209
+Looking for faces in 209
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/209/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/209/B.jpg
+A- Found Taku_Yamasaki
+B- Found Candace_Sutton
+0
+Looking for faces in 210
+Looking for faces in 210
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/210/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/210/B.jpg
+A- Found Chris_Kolanas
+B- Found Yu_Shyi-kun
+0
+Looking for faces in 211
+Looking for faces in 211
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/211/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/211/B.jpg
+A- Found John_Ashcroft
+B- Found John_Ashcroft
+1
+Looking for faces in 212
+Looking for faces in 212
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/212/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/212/B.jpg
+A- Found Antonio_Palocci
+B- Found Hamid_Karzai
+0
+Looking for faces in 213
+Looking for faces in 213
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/213/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/213/B.jpg
+A- Found Binyamin_Ben-Eliezer
+B- Found Binyamin_Ben-Eliezer
+1
+Looking for faces in 214
+Looking for faces in 214
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/214/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/214/B.jpg
+A- Found John_Bolton
+B- Found John_Bolton
+1
+Looking for faces in 215
+Looking for faces in 215
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/215/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/215/B.jpg
+A- Found Zhang_Ziyi
+B- Found Laura_Bush
+0
+Looking for faces in 216
+Looking for faces in 216
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/216/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/216/B.jpg
+A- Found Pierce_Brosnan
+B- Found Pierce_Brosnan
+1
+Looking for faces in 217
+Looking for faces in 217
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/217/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/217/B.jpg
+A- Found Arminio_Fraga
+B- Found Arminio_Fraga
+1
+Looking for faces in 218
+Looking for faces in 218
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/218/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/218/B.jpg
+A- Found Michael_Leavitt
+B- Found Kurt_Busch
+0
+Looking for faces in 219
+Looking for faces in 219
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/219/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/219/B.jpg
+A- Found Bryce_Carmine
+B- Found Joe_Leonard
+0
+Looking for faces in 220
+Looking for faces in 220
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/220/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/220/B.jpg
+A- Found Rita_Wilson
+B- Found Rita_Wilson
+1
+Looking for faces in 221
+Looking for faces in 221
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/221/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/221/B.jpg
+A- Found Cristina_Saralegui
+B- Found Elizabeth_Taylor
+0
+Looking for faces in 222
+Looking for faces in 222
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/222/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/222/B.jpg
+A- Found Carlos_Menem
+B- Found Brian_Kerr
+0
+Looking for faces in 223
+Looking for faces in 223
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/223/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/223/B.jpg
+A- Found Michael_Bloomberg
+B- Found Michael_Bloomberg
+1
+Looking for faces in 224
+Looking for faces in 224
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/224/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/224/B.jpg
+A- Found Iain_Anderson
+B- Found Bryce_Carmine
+0
+Looking for faces in 225
+Looking for faces in 225
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/225/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/225/B.jpg
+A- Found Charlie_Sheen
+A- Found Keira_Knightley
+B- Found Rick_Perry
+0
+Looking for faces in 226
+Looking for faces in 226
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/226/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/226/B.jpg
+A- Found Justin_Marshall
+B- Found Trent_Lott
+0
+Looking for faces in 227
+Looking for faces in 227
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/227/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/227/B.jpg
+A- Found Noor_Mohammed
+A- Found Rosario_Dawson
+A- Found Valentino_Rossi
+B- Found Noor_Mohammed
+0
+Looking for faces in 228
+Looking for faces in 228
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/228/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/228/B.jpg
+A- Found Rick_Romley
+B- Found Rick_Romley
+1
+Looking for faces in 229
+Looking for faces in 229
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/229/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/229/B.jpg
+A- Found Brian_Schneider
+B- Found Bryce_Carmine
+0
+Looking for faces in 230
+Looking for faces in 230
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/230/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/230/B.jpg
+A- Found Xavier_Malisse
+B- Found George_W_Bush
+0
+Looking for faces in 231
+Looking for faces in 231
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/231/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/231/B.jpg
+A- Found Pete_Sampras
+B- Found Justin_Marshall
+0
+Looking for faces in 232
+Looking for faces in 232
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/232/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/232/B.jpg
+A- Found Lazaro_Castro
+B- Found Mitt_Romney
+0
+Looking for faces in 233
+Looking for faces in 233
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/233/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/233/B.jpg
+A- Found Joseph_Blatter
+B- Found Sepp_Blatter
+0
+Looking for faces in 234
+Looking for faces in 234
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/234/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/234/B.jpg
+A- Found Maria_Soledad_Alvear_Valenzuela
+B- Found Steve_Lenard
+0
+Looking for faces in 235
+Looking for faces in 235
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/235/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/235/B.jpg
+A- Found Newt_Gingrich
+B- Found Steven_Hatfill
+0
+Looking for faces in 236
+Looking for faces in 236
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/236/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/236/B.jpg
+A- Found Judi_Patton
+B- Found Claire_Leger
+0
+Looking for faces in 237
+Looking for faces in 237
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/237/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/237/B.jpg
+A- Found Barry_Collier
+B- Found John_Manley
+0
+Looking for faces in 238
+Looking for faces in 238
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/238/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/238/B.jpg
+A- Found Pierce_Brosnan
+A- Found Paul_Wellstone
+B- Found Gen_Meredith
+0
+Looking for faces in 239
+Looking for faces in 239
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/239/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/239/B.jpg
+A- Found Mike_Holmgren
+B- Found Mike_Holmgren
+1
+Looking for faces in 240
+Looking for faces in 240
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/240/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/240/B.jpg
+A- Found Pierce_Brosnan
+B- Found Pierce_Brosnan
+1
+Looking for faces in 241
+Looking for faces in 241
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/241/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/241/B.jpg
+A- Found Allison_Janney
+B- Found Hans_Blix
+0
+Looking for faces in 242
+Looking for faces in 242
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/242/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/242/B.jpg
+A- Found John_Sweeney
+B- Found Charlie_Sheen
+B- Found Keira_Knightley
+0
+Looking for faces in 243
+Looking for faces in 243
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/243/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/243/B.jpg
+A- Found Jane_Leeves
+B- Found Jim_Hahn
+0
+Looking for faces in 244
+Looking for faces in 244
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/244/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/244/B.jpg
+A- Found Cesar_Gaviria
+B- Found Cesar_Gaviria
+1
+Looking for faces in 245
+Looking for faces in 245
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/245/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/245/B.jpg
+A- Found Oswald_Gruebel
+B- Found Kirsten_Gilham
+0
+Looking for faces in 246
+Looking for faces in 246
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/246/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/246/B.jpg
+A- Found William_Overlin
+B- Found Paul_ONeill
+0
+Looking for faces in 247
+Looking for faces in 247
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/247/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/247/B.jpg
+A- Found Alvaro_Uribe
+B- Found Brad_Alexander_Smith
+0
+Looking for faces in 248
+Looking for faces in 248
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/248/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/248/B.jpg
+A- Found Maureen_Kanka
+B- Found Brad_Alexander_Smith
+0
+Looking for faces in 249
+Looking for faces in 249
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/249/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/249/B.jpg
+A- Found Casy_Preslar
+B- Found Anthony_Mazur
+0
+Looking for faces in 250
+Looking for faces in 250
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/250/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/250/B.jpg
+A- Found John_Ashcroft
+B- Found Jay_Garner
+0
+Looking for faces in 251
+Looking for faces in 251
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/251/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/251/B.jpg
+A- Found Heidi_Fleiss
+B- Found Heidi_Fleiss
+1
+Looking for faces in 252
+Looking for faces in 252
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/252/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/252/B.jpg
+A- Found Pete_Sampras
+B- Found Ricardo_Maduro
+0
+Looking for faces in 253
+Looking for faces in 253
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/253/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/253/B.jpg
+A- Found Jean-David_Levitte
+B- Found Bill_Gates
+0
+Looking for faces in 254
+Looking for faces in 254
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/254/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/254/B.jpg
+A- Found Kofi_Annan
+B- Found Vanessa_Redgrave
+0
+Looking for faces in 255
+Looking for faces in 255
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/255/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/255/B.jpg
+A- Found Najib_al-Salhi
+B- Found Pedro_Almodovar
+0
+Looking for faces in 256
+Looking for faces in 256
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/256/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/256/B.jpg
+A- Found Jennifer_Lopez
+B- Found Jennifer_Lopez
+1
+Looking for faces in 257
+Looking for faces in 257
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/257/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/257/B.jpg
+A- Found Pierce_Brosnan
+B- Found Pierce_Brosnan
+1
+Looking for faces in 258
+Looking for faces in 258
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/258/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/258/B.jpg
+A- Found Paul_Henderson
+B- Found Evander_Holyfield
+0
+Looking for faces in 259
+Looking for faces in 259
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/259/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/259/B.jpg
+A- Found Princess_Aiko
+B- Found Lynn_Redgrave
+0
+Looking for faces in 260
+Looking for faces in 260
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/260/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/260/B.jpg
+A- Found Brenda_Magana
+B- Found Lance_Armstrong
+0
+Looking for faces in 261
+Looking for faces in 261
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/261/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/261/B.jpg
+A- Found George_Robertson
+A- Found Larry_Pleau
+A- Found Cristiano_da_Matta
+B- Found George_Robertson
+0
+Looking for faces in 262
+Looking for faces in 262
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/262/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/262/B.jpg
+A- Found Michael_Leavitt
+A- Found Mark_Wahlberg
+B- Found Kjell_Magne_Bondevik
+0
+Looking for faces in 263
+Looking for faces in 263
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/263/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/263/B.jpg
+A- Found Alex_Barros
+B- Found Maurice_Papon
+0
+Looking for faces in 264
+Looking for faces in 264
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/264/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/264/B.jpg
+A- Found Leonid_Kuchma
+B- Found Leonid_Kuchma
+1
+Looking for faces in 265
+Looking for faces in 265
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/265/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/265/B.jpg
+A- Found Jada_Pinkett_Smith
+B- Found Iran_Brown
+0
+Looking for faces in 266
+Looking for faces in 266
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/266/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/266/B.jpg
+A- Found George_W_Bush
+B- Found George_W_Bush
+1
+Looking for faces in 267
+Looking for faces in 267
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/267/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/267/B.jpg
+A- Found John_Ashcroft
+B- Found John_Ashcroft
+1
+Looking for faces in 268
+Looking for faces in 268
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/268/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/268/B.jpg
+A- Found Richard_Gephardt
+B- Found Jose_Dirceu
+0
+Looking for faces in 269
+Looking for faces in 269
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/269/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/269/B.jpg
+A- Found Mary_Carey
+B- Found Al_Davis
+0
+Looking for faces in 270
+Looking for faces in 270
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/270/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/270/B.jpg
+A- Found Halle_Berry
+B- Found Halle_Berry
+1
+Looking for faces in 271
+Looking for faces in 271
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/271/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/271/B.jpg
+A- Found Leonid_Kuchma
+B- Found Leonid_Kuchma
+1
+Looking for faces in 272
+Looking for faces in 272
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/272/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/272/B.jpg
+A- Found Noer_Muis
+B- Found Alicia_Silverstone
+0
+Looking for faces in 273
+Looking for faces in 273
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/273/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/273/B.jpg
+A- Found David_Beckham
+B- Found Paul_ONeill
+0
+Looking for faces in 274
+Looking for faces in 274
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/274/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/274/B.jpg
+A- Found Joan_Laporta
+B- Found Joan_Laporta
+1
+Looking for faces in 275
+Looking for faces in 275
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/275/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/275/B.jpg
+A- Found Robert_Blake
+B- Found Robert_Blake
+1
+Looking for faces in 276
+Looking for faces in 276
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/276/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/276/B.jpg
+A- Found Jay_Garner
+B- Found Gen_Meredith
+0
+Looking for faces in 277
+Looking for faces in 277
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/277/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/277/B.jpg
+A- Found Rachel_Roy
+B- Found Ludivine_Sagnier
+0
+Looking for faces in 278
+Looking for faces in 278
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/278/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/278/B.jpg
+A- Found Britney_Spears
+B- Found King_Bhumibol_Adulyadej
+0
+Looking for faces in 279
+Looking for faces in 279
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/279/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/279/B.jpg
+A- Found Oprah_Winfrey
+A- Found Patrick_Leahy
+B- Found Oprah_Winfrey
+0
+Looking for faces in 280
+Looking for faces in 280
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/280/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/280/B.jpg
+A- Found John_Howard
+B- Found Bill_Rainer
+0
+Looking for faces in 281
+Looking for faces in 281
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/281/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/281/B.jpg
+A- Found Rashid_Qureshi
+B- Found Antonio_Palocci
+0
+Looking for faces in 282
+Looking for faces in 282
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/282/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/282/B.jpg
+A- Found Justin_Marshall
+B- Found Justin_Marshall
+1
+Looking for faces in 283
+Looking for faces in 283
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/283/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/283/B.jpg
+A- Found David_Coulthard
+B- Found Paul_Martin
+0
+Looking for faces in 284
+Looking for faces in 284
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/284/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/284/B.jpg
+A- Found Sabah_Al-Ahmad_Al-Jaber_Al-Sabah
+B- Found Atal_Bihari_Vajpayee
+0
+Looking for faces in 285
+Looking for faces in 285
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/285/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/285/B.jpg
+A- Found Newt_Gingrich
+B- Found Bill_Frist
+0
+Looking for faces in 286
+Looking for faces in 286
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/286/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/286/B.jpg
+A- Found King_Abdullah_II
+B- Found Cristina_Saralegui
+0
+Looking for faces in 287
+Looking for faces in 287
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/287/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/287/B.jpg
+A- Found Bill_Clinton
+B- Found Bill_Clinton
+1
+Looking for faces in 288
+Looking for faces in 288
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/288/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/288/B.jpg
+A- Found Habib_Rizieq
+B- Found Jan-Michael_Gambill
+0
+Looking for faces in 289
+Looking for faces in 289
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/289/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/289/B.jpg
+A- Found Butch_Davis
+B- Found Trent_Lott
+0
+Looking for faces in 290
+Looking for faces in 290
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/290/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/290/B.jpg
+A- Found Antonio_Palocci
+B- Found Steve_Lenard
+0
+Looking for faces in 291
+Looking for faces in 291
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/291/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/291/B.jpg
+A- Found Heidi_Fleiss
+B- Found Heidi_Fleiss
+1
+Looking for faces in 292
+Looking for faces in 292
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/292/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/292/B.jpg
+A- Found Luciano_Pavarotti
+B- Found Marwan_Muasher
+B- Found Martin_McCauley
+0
+Looking for faces in 293
+Looking for faces in 293
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/293/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/293/B.jpg
+A- Found Xavier_Malisse
+B- Found Sushma_Swaraj
+0
+Looking for faces in 294
+Looking for faces in 294
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/294/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/294/B.jpg
+A- Found Binyamin_Ben-Eliezer
+B- Found Binyamin_Ben-Eliezer
+1
+Looking for faces in 295
+Looking for faces in 295
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/295/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/295/B.jpg
+A- Found Taku_Yamasaki
+B- Found Charles_Taylor
+0
+Looking for faces in 296
+Looking for faces in 296
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/296/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/296/B.jpg
+A- Found Iain_Anderson
+B- Found Jim_Furyk
+0
+Looking for faces in 297
+Looking for faces in 297
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/297/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/297/B.jpg
+A- Found Princess_Caroline
+B- Found Richard_Gere
+B- Found Jean_Todt
+0
+Looking for faces in 298
+Looking for faces in 298
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/298/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/298/B.jpg
+A- Found Silvan_Shalom
+B- Found Sandra_Ceccarelli
+0
+Looking for faces in 299
+Looking for faces in 299
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/299/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/299/B.jpg
+A- Found Brian_Schneider
+B- Found Jeremy_Greenstock
+0
+Looking for faces in 300
+Looking for faces in 300
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/300/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/300/B.jpg
+A- Found Felix_Mantilla
+B- Found Filippo_Inzaghi
+0
+Looking for faces in 301
+Looking for faces in 301
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/301/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/301/B.jpg
+A- Found Mary_Carey
+B- Found Jayson_Williams
+0
+Looking for faces in 302
+Looking for faces in 302
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/302/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/302/B.jpg
+A- Found Halle_Berry
+B- Found Halle_Berry
+1
+Looking for faces in 303
+Looking for faces in 303
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/303/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/303/B.jpg
+A- Found Bo_Ryan
+B- Found Heidi_Fleiss
+0
+Looking for faces in 304
+Looking for faces in 304
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/304/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/304/B.jpg
+A- Found Leonid_Kuchma
+B- Found Leonid_Kuchma
+1
+Looking for faces in 305
+Looking for faces in 305
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/305/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/305/B.jpg
+A- Found Martin_Scorsese
+B- Found Martin_Scorsese
+1
+Looking for faces in 306
+Looking for faces in 306
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/306/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/306/B.jpg
+A- Found Sepp_Blatter
+B- Found Sepp_Blatter
+1
+Looking for faces in 307
+Looking for faces in 307
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/307/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/307/B.jpg
+A- Found Mehdi_Baala
+B- Found Serena_Williams
+0
+Looking for faces in 308
+Looking for faces in 308
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/308/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/308/B.jpg
+A- Found Scott_Wittman
+B- Found Allen_Rock
+0
+Looking for faces in 309
+Looking for faces in 309
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/309/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/309/B.jpg
+A- Found Angela_Bassett
+B- Found Guillermo_Monroy
+0
+Looking for faces in 310
+Looking for faces in 310
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/310/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/310/B.jpg
+A- Found Albert_Pujols
+A- Found Joe_Gatti
+B- Found Terry_Bradshaw
+0
+Looking for faces in 311
+Looking for faces in 311
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/311/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/311/B.jpg
+A- Found Halle_Berry
+B- Found Halle_Berry
+1
+Looking for faces in 312
+Looking for faces in 312
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/312/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/312/B.jpg
+A- Found Paul_ONeill
+B- Found Paul_ONeill
+1
+Looking for faces in 313
+Looking for faces in 313
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/313/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/313/B.jpg
+A- Found Erin_Runnion
+B- Found Renee_Zellweger
+0
+Looking for faces in 314
+Looking for faces in 314
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/314/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/314/B.jpg
+A- Found Serena_Williams
+B- Found Sabah_Al-Ahmad_Al-Jaber_Al-Sabah
+0
+Looking for faces in 315
+Looking for faces in 315
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/315/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/315/B.jpg
+A- Found Julia_Tymoshenko
+B- Found Princess_Elisabeth
+0
+Looking for faces in 316
+Looking for faces in 316
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/316/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/316/B.jpg
+A- Found Allison_Janney
+B- Found Mireya_Moscoso
+0
+Looking for faces in 317
+Looking for faces in 317
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/317/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/317/B.jpg
+A- Found Kim_Clijsters
+B- Found Kim_Clijsters
+1
+Looking for faces in 318
+Looking for faces in 318
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/318/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/318/B.jpg
+A- Found Lesley_McCulloch
+B- Found Lesley_McCulloch
+1
+Looking for faces in 319
+Looking for faces in 319
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/319/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/319/B.jpg
+A- Found George_W_Bush
+B- Found George_W_Bush
+1
+Looking for faces in 320
+Looking for faces in 320
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/320/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/320/B.jpg
+A- Found Joaquim_Rodriguez
+B- Found Debra_Brown
+0
+Looking for faces in 321
+Looking for faces in 321
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/321/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/321/B.jpg
+A- Found Joe_Glover
+B- Found Zaini_Abdullah
+0
+Looking for faces in 322
+Looking for faces in 322
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/322/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/322/B.jpg
+A- Found Vicente_Fernandez
+B- Found Shavon_Earp
+0
+Looking for faces in 323
+Looking for faces in 323
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/323/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/323/B.jpg
+A- Found Jon_Corzine
+B- Found Terry_Bradshaw
+0
+Looking for faces in 324
+Looking for faces in 324
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/324/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/324/B.jpg
+A- Found John_Bolton
+B- Found Kim_Ryong-sung
+0
+Looking for faces in 325
+Looking for faces in 325
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/325/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/325/B.jpg
+A- Found Nigel_Redden
+B- Found Michael_Jackson
+0
+Looking for faces in 326
+Looking for faces in 326
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/326/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/326/B.jpg
+A- Found Toshi_Izawa
+B- Found Nate_Hybl
+0
+Looking for faces in 327
+Looking for faces in 327
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/327/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/327/B.jpg
+A- Found Platon_Lebedev
+B- Found Terry_Hoeppner
+0
+Looking for faces in 328
+Looking for faces in 328
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/328/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/328/B.jpg
+A- Found Alvaro_Noboa
+B- Found Mireya_Moscoso
+0
+Looking for faces in 329
+Looking for faces in 329
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/329/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/329/B.jpg
+A- Found Kay_Bailey_Hutchison
+B- Found Rina_Lazo
+0
+Looking for faces in 330
+Looking for faces in 330
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/330/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/330/B.jpg
+A- Found Kamal_Kharrazi
+B- Found Kamal_Kharrazi
+1
+Looking for faces in 331
+Looking for faces in 331
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/331/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/331/B.jpg
+A- Found Leonid_Kuchma
+B- Found Leonid_Kuchma
+1
+Looking for faces in 332
+Looking for faces in 332
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/332/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/332/B.jpg
+A- Found Donald_Fehr
+B- Found Peter_Struck
+0
+Looking for faces in 333
+Looking for faces in 333
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/333/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/333/B.jpg
+A- Found Erika_Harold
+B- Found Tom_Jones
+0
+Looking for faces in 334
+Looking for faces in 334
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/334/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/334/B.jpg
+A- Found Jeremy_Greenstock
+B- Found Randy_Johnson
+0
+Looking for faces in 335
+Looking for faces in 335
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/335/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/335/B.jpg
+A- Found David_Coulthard
+B- Found Danny_Ainge
+B- Found Didier_Defago
+0
+Looking for faces in 336
+Looking for faces in 336
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/336/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/336/B.jpg
+A- Found Michelle_Kwan
+B- Found Yoriko_Kawaguchi
+0
+Looking for faces in 337
+Looking for faces in 337
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/337/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/337/B.jpg
+A- Found Diana_Ross
+B- Found Tamara_Stokes
+0
+Looking for faces in 338
+Looking for faces in 338
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/338/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/338/B.jpg
+A- Found Michael_Jackson
+B- Found Michael_Jackson
+1
+Looking for faces in 339
+Looking for faces in 339
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/339/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/339/B.jpg
+A- Found Cruz_Bustamante
+B- Found Halle_Berry
+0
+Looking for faces in 340
+Looking for faces in 340
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/340/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/340/B.jpg
+A- Found Jose_Canseco
+B- Found Filippo_Inzaghi
+0
+Looking for faces in 341
+Looking for faces in 341
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/341/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/341/B.jpg
+A- Found Adel_Al-Jubeir
+B- Found Horst_Koehler
+0
+Looking for faces in 342
+Looking for faces in 342
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/342/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/342/B.jpg
+A- Found Roh_Moo-hyun
+B- Found Roh_Moo-hyun
+1
+Looking for faces in 343
+Looking for faces in 343
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/343/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/343/B.jpg
+A- Found Margaret_Thatcher
+B- Found Antonio_Palocci
+0
+Looking for faces in 344
+Looking for faces in 344
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/344/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/344/B.jpg
+A- Found Scott_Peterson
+B- Found Tony_Blair
+0
+Looking for faces in 345
+Looking for faces in 345
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/345/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/345/B.jpg
+A- Found Maria_Shriver
+B- Found Maria_Shriver
+1
+Looking for faces in 346
+Looking for faces in 346
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/346/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/346/B.jpg
+A- Found Tang_Jiaxuan
+B- Found Tang_Jiaxuan
+1
+Looking for faces in 347
+Looking for faces in 347
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/347/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/347/B.jpg
+A- Found Shaun_Rusling
+B- Found Donald_Fehr
+0
+Looking for faces in 348
+Looking for faces in 348
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/348/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/348/B.jpg
+A- Found John_Jumper
+B- Found Stefaan_Declerk
+0
+Looking for faces in 349
+Looking for faces in 349
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/349/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/349/B.jpg
+A- Found Laura_Bush
+B- Found Elodie_Bouchez
+0
+Looking for faces in 350
+Looking for faces in 350
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/350/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/350/B.jpg
+A- Found Terry_Hoeppner
+B- Found Isaiah_Washington
+0
+Looking for faces in 351
+Looking for faces in 351
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/351/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/351/B.jpg
+A- Found Ronde_Barber
+B- Found Ronde_Barber
+1
+Looking for faces in 352
+Looking for faces in 352
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/352/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/352/B.jpg
+A- Found Lucia_Kenny_Anthony
+B- Found John_Allen_Muhammad
+0
+Looking for faces in 353
+Looking for faces in 353
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/353/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/353/B.jpg
+A- Found Joseph_Blatter
+B- Found Sepp_Blatter
+0
+Looking for faces in 354
+Looking for faces in 354
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/354/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/354/B.jpg
+A- Found Bill_Clinton
+B- Found Bill_Clinton
+1
+Looking for faces in 355
+Looking for faces in 355
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/355/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/355/B.jpg
+A- Found Hootie_Johnson
+B- Found Rolandas_Paksas
+0
+Looking for faces in 356
+Looking for faces in 356
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/356/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/356/B.jpg
+A- Found Anna_Kournikova
+B- Found David_Nalbandian
+0
+Looking for faces in 357
+Looking for faces in 357
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/357/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/357/B.jpg
+A- Found Michael_Chang
+B- Found Michael_Chang
+1
+Looking for faces in 358
+Looking for faces in 358
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/358/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/358/B.jpg
+A- Found Tang_Jiaxuan
+B- Found Jeong_Se-hyun
+0
+Looking for faces in 359
+Looking for faces in 359
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/359/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/359/B.jpg
+A- Found Sylvia_Plachy
+B- Found Zeljko_Rebraca
+0
+Looking for faces in 360
+Looking for faces in 360
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/360/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/360/B.jpg
+A- Found Kaspar_Villiger
+B- Found Robert_Blake
+0
+Looking for faces in 361
+Looking for faces in 361
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/361/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/361/B.jpg
+A- Found Gabriel_Jorge_Ferreia
+A- Found Jesse_Jackson
+A- Found Jerome_Jenkins
+B- Found Jesse_Jackson
+B- Found Dick_Cheney
+0
+Looking for faces in 362
+Looking for faces in 362
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/362/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/362/B.jpg
+A- Found Roh_Moo-hyun
+B- Found Michael_Chang
+0
+Looking for faces in 363
+Looking for faces in 363
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/363/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/363/B.jpg
+A- Found Roger_Clemens
+B- Found Platon_Lebedev
+0
+Looking for faces in 364
+Looking for faces in 364
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/364/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/364/B.jpg
+A- Found Mikhail_Youzhny
+B- Found Gen_Meredith
+0
+Looking for faces in 365
+Looking for faces in 365
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/365/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/365/B.jpg
+A- Found Isaiah_Washington
+B- Found Zhu_Rongji
+0
+Looking for faces in 366
+Looking for faces in 366
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/366/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/366/B.jpg
+A- Found Jesse_Jackson
+B- Found Jesse_Jackson
+1
+Looking for faces in 367
+Looking for faces in 367
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/367/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/367/B.jpg
+A- Found Luciano_Pavarotti
+B- Found Abid_Hamid_Mahmud_Al-Tikriti
+0
+Looking for faces in 368
+Looking for faces in 368
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/368/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/368/B.jpg
+A- Found Anne_Krueger
+B- Found Anne_Krueger
+1
+Looking for faces in 369
+Looking for faces in 369
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/369/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/369/B.jpg
+A- Found Matt_Welsh
+B- Found David_Kelly
+0
+Looking for faces in 370
+Looking for faces in 370
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/370/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/370/B.jpg
+A- Found Maria_Shriver
+A- Found Romano_Prodi
+B- Found Maria_Shriver
+0
+Looking for faces in 371
+Looking for faces in 371
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/371/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/371/B.jpg
+A- Found Tony_Blair
+B- Found Gray_Davis
+0
+Looking for faces in 372
+Looking for faces in 372
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/372/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/372/B.jpg
+A- Found Mike_Matthews
+B- Found Nancy_Pelosi
+0
+Looking for faces in 373
+Looking for faces in 373
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/373/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/373/B.jpg
+A- Found Martin_Cauchon
+B- Found Steve_Lenard
+0
+Looking for faces in 374
+Looking for faces in 374
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/374/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/374/B.jpg
+A- Found Ed_Smart
+A- Found Elizabeth_Smart
+B- Found Hermann_Maier
+0
+Looking for faces in 375
+Looking for faces in 375
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/375/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/375/B.jpg
+A- Found Gray_Davis
+B- Found Richard_Gephardt
+0
+Looking for faces in 376
+Looking for faces in 376
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/376/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/376/B.jpg
+A- Found Norah_Jones
+B- Found Ravan_AG_Farhadi
+0
+Looking for faces in 377
+Looking for faces in 377
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/377/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/377/B.jpg
+A- Found Mike_Martz
+B- Found Mike_Martz
+1
+Looking for faces in 378
+Looking for faces in 378
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/378/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/378/B.jpg
+A- Found Mohammed_Al-Douri
+B- Found Richard_Gephardt
+0
+Looking for faces in 379
+Looking for faces in 379
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/379/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/379/B.jpg
+A- Found Allison_Janney
+B- Found Jean_Chretien
+0
+Looking for faces in 380
+Looking for faces in 380
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/380/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/380/B.jpg
+A- Found Jake_Gyllenhaal
+B- Found Jake_Gyllenhaal
+1
+Looking for faces in 381
+Looking for faces in 381
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/381/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/381/B.jpg
+A- Found Taku_Yamasaki
+B- Found Mehdi_Baala
+0
+Looking for faces in 382
+Looking for faces in 382
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/382/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/382/B.jpg
+A- Found Jennifer_Capriati
+B- Found Miguel_Contreras
+0
+Looking for faces in 383
+Looking for faces in 383
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/383/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/383/B.jpg
+A- Found Tony_Blair
+B- Found Richard_Gephardt
+0
+Looking for faces in 384
+Looking for faces in 384
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/384/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/384/B.jpg
+A- Found Margaret_Thatcher
+B- Found Max_Mayfield
+0
+Looking for faces in 385
+Looking for faces in 385
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/385/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/385/B.jpg
+A- Found Brian_Kerr
+B- Found Rafael_Ramirez
+0
+Looking for faces in 386
+Looking for faces in 386
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/386/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/386/B.jpg
+A- Found Bill_Clinton
+B- Found Bill_Clinton
+1
+Looking for faces in 387
+Looking for faces in 387
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/387/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/387/B.jpg
+A- Found George_W_Bush
+B- Found George_W_Bush
+1
+Looking for faces in 388
+Looking for faces in 388
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/388/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/388/B.jpg
+A- Found Richard_Jefferson
+B- Found Tubby_Smith
+0
+Looking for faces in 389
+Looking for faces in 389
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/389/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/389/B.jpg
+A- Found Rose_Linkins
+B- Found Marianne_Stanley
+0
+Looking for faces in 390
+Looking for faces in 390
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/390/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/390/B.jpg
+A- Found Rolf_Eckrodt
+B- Found Tommy_Franks
+0
+Looking for faces in 391
+Looking for faces in 391
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/391/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/391/B.jpg
+A- Found Justin_Marshall
+B- Found Justin_Marshall
+1
+Looking for faces in 392
+Looking for faces in 392
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/392/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/392/B.jpg
+A- Found Gustavo_Franco
+B- Found Lance_Armstrong
+0
+Looking for faces in 393
+Looking for faces in 393
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/393/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/393/B.jpg
+A- Found Sachin_Tendulkar
+B- Found Queen_Elizabeth_II
+0
+Looking for faces in 394
+Looking for faces in 394
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/394/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/394/B.jpg
+A- Found Mahmoud_Abbas
+B- Found Kamal_Kharrazi
+0
+Looking for faces in 395
+Looking for faces in 395
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/395/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/395/B.jpg
+A- Found Tom_Ridge
+B- Found Hassan_Nasrallah
+0
+Looking for faces in 396
+Looking for faces in 396
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/396/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/396/B.jpg
+A- Found Junichiro_Koizumi
+B- Found Gerhard_Schroeder
+0
+Looking for faces in 397
+Looking for faces in 397
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/397/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/397/B.jpg
+A- Found Dick_Latessa
+B- Found Robert_Douglas
+0
+Looking for faces in 398
+Looking for faces in 398
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/398/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/398/B.jpg
+A- Found Iain_Duncan_Smith
+B- Found Roy_Chaderton
+B- Found Steve_Avery
+0
+Looking for faces in 399
+Looking for faces in 399
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/399/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/399/B.jpg
+A- Found David_Wells
+B- Found David_Wells
+1
+Looking for faces in 400
+Looking for faces in 400
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/400/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/400/B.jpg
+A- Found Mehdi_Baala
+B- Found Ray_Evernham
+0
+Looking for faces in 401
+Looking for faces in 401
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/401/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/401/B.jpg
+A- Found Michael_Bloomberg
+B- Found Michael_Bloomberg
+B- Found Michael_Chang
+0
+Looking for faces in 402
+Looking for faces in 402
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/402/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/402/B.jpg
+A- Found Justin_Gatlin
+B- Found Michael_Schumacher
+0
+Looking for faces in 403
+Looking for faces in 403
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/403/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/403/B.jpg
+A- Found Gerhard_Schroeder
+B- Found Steve_Patterson
+0
+Looking for faces in 404
+Looking for faces in 404
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/404/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/404/B.jpg
+A- Found Taku_Yamasaki
+B- Found Alvaro_Uribe
+0
+Looking for faces in 405
+Looking for faces in 405
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/405/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/405/B.jpg
+A- Found George_W_Bush
+B- Found Carlos_Moya
+0
+Looking for faces in 406
+Looking for faces in 406
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/406/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/406/B.jpg
+A- Found Roman_Polanski
+B- Found Hashan_Tillakaratne
+0
+Looking for faces in 407
+Looking for faces in 407
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/407/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/407/B.jpg
+A- Found Kamal_Kharrazi
+A- Found Mahmoud_Abbas
+A- Found Abid_Hamid_Mahmud_Al-Tikriti
+B- Found Kamal_Kharrazi
+0
+Looking for faces in 408
+Looking for faces in 408
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/408/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/408/B.jpg
+A- Found Saddam_Hussein
+B- Found Donald_Rumsfeld
+0
+Looking for faces in 409
+Looking for faces in 409
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/409/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/409/B.jpg
+A- Found Terry_Stotts
+B- Found Norodom_Sihanouk
+0
+Looking for faces in 410
+Looking for faces in 410
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/410/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/410/B.jpg
+A- Found Torri_Edwards
+B- Found Torri_Edwards
+1
+Looking for faces in 411
+Looking for faces in 411
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/411/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/411/B.jpg
+A- Found Gray_Davis
+B- Found Omar_Sharif
+0
+Looking for faces in 412
+Looking for faces in 412
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/412/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/412/B.jpg
+A- Found Norah_Jones
+B- Found Catherine_Zeta-Jones
+0
+Looking for faces in 413
+Looking for faces in 413
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/413/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/413/B.jpg
+A- Found Habib_Rizieq
+B- Found Gerhard_Schroeder
+0
+Looking for faces in 414
+Looking for faces in 414
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/414/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/414/B.jpg
+A- Found Joe_Calzaghe
+B- Found Emanuel_Ginobili
+0
+Looking for faces in 415
+Looking for faces in 415
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/415/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/415/B.jpg
+A- Found Joe_Leonard
+B- Found Patrice_Chereau
+0
+Looking for faces in 416
+Looking for faces in 416
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/416/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/416/B.jpg
+A- Found Lawrence_MacAulay
+B- Found Joe_Gatti
+0
+Looking for faces in 417
+Looking for faces in 417
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/417/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/417/B.jpg
+A- Found Gilberto_Simoni
+B- Found Gary_Locke
+B- Found Ian_Knop
+0
+Looking for faces in 418
+Looking for faces in 418
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/418/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/418/B.jpg
+A- Found Orrin_Hatch
+B- Found Norah_Jones
+0
+Looking for faces in 419
+Looking for faces in 419
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/419/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/419/B.jpg
+A- Found Joschka_Fischer
+B- Found Max_Mayfield
+0
+Looking for faces in 420
+Looking for faces in 420
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/420/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/420/B.jpg
+A- Found George_Robertson
+B- Found George_Robertson
+1
+Looking for faces in 421
+Looking for faces in 421
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/421/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/421/B.jpg
+A- Found Sylvia_Plachy
+B- Found John_Manley
+0
+Looking for faces in 422
+Looking for faces in 422
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/422/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/422/B.jpg
+A- Found Bill_Clancy
+A- Found Helena_Schneider
+B- Found Michael_Chang
+0
+Looking for faces in 423
+Looking for faces in 423
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/423/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/423/B.jpg
+A- Found David_Wells
+B- Found David_Wells
+1
+Looking for faces in 424
+Looking for faces in 424
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/424/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/424/B.jpg
+A- Found Justin_Marshall
+B- Found Justin_Marshall
+1
+Looking for faces in 425
+Looking for faces in 425
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/425/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/425/B.jpg
+A- Found David_Wells
+B- Found David_Wells
+1
+Looking for faces in 426
+Looking for faces in 426
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/426/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/426/B.jpg
+A- Found Paul_Martin
+B- Found Paul_Martin
+1
+Looking for faces in 427
+Looking for faces in 427
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/427/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/427/B.jpg
+A- Found Paul_ONeill
+B- Found Paul_ONeill
+1
+Looking for faces in 428
+Looking for faces in 428
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/428/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/428/B.jpg
+A- Found Gabrielle_Union
+B- Found Tamara_Stokes
+0
+Looking for faces in 429
+Looking for faces in 429
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/429/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/429/B.jpg
+A- Found Gustavo_Franco
+B- Found Rodney_Rempt
+0
+Looking for faces in 430
+Looking for faces in 430
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/430/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/430/B.jpg
+A- Found Alvaro_Uribe
+B- Found Julio_De_Brun
+0
+Looking for faces in 431
+Looking for faces in 431
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/431/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/431/B.jpg
+A- Found Joan_Laporta
+B- Found Tommy_Franks
+0
+Looking for faces in 432
+Looking for faces in 432
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/432/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/432/B.jpg
+A- Found Torri_Edwards
+B- Found Aiysha_Smith
+0
+Looking for faces in 433
+Looking for faces in 433
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/433/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/433/B.jpg
+A- Found Laura_Bush
+B- Found Leslie_Caldwell
+0
+Looking for faces in 434
+Looking for faces in 434
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/434/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/434/B.jpg
+A- Found Michael_Bloomberg
+B- Found Tim_Henman
+B- Found Barbara_Walters
+0
+Looking for faces in 435
+Looking for faces in 435
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/435/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/435/B.jpg
+A- Found Ricardo_Mayorga
+B- Found Brian_Kerr
+0
+Looking for faces in 436
+Looking for faces in 436
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/436/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/436/B.jpg
+A- Found Leonid_Kuchma
+B- Found Leonid_Kuchma
+1
+Looking for faces in 437
+Looking for faces in 437
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/437/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/437/B.jpg
+A- Found Fabrice_Santoro
+B- Found Lance_Armstrong
+0
+Looking for faces in 438
+Looking for faces in 438
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/438/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/438/B.jpg
+A- Found Farouk_Kaddoumi
+B- Found Phil_Jackson
+0
+Looking for faces in 439
+Looking for faces in 439
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/439/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/439/B.jpg
+A- Found Angela_Bassett
+B- Found Paul_Luvera
+0
+Looking for faces in 440
+Looking for faces in 440
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/440/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/440/B.jpg
+A- Found Nancy_Pelosi
+B- Found Nancy_Pelosi
+1
+Looking for faces in 441
+Looking for faces in 441
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/441/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/441/B.jpg
+A- Found Iain_Duncan_Smith
+B- Found Marricia_Tate
+0
+Looking for faces in 442
+Looking for faces in 442
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/442/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/442/B.jpg
+A- Found Junichiro_Koizumi
+B- Found Laura_Bush
+0
+Looking for faces in 443
+Looking for faces in 443
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/443/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/443/B.jpg
+A- Found Jon_Gruden
+B- Found John_Gruden
+0
+Looking for faces in 444
+Looking for faces in 444
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/444/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/444/B.jpg
+A- Found Sarah_Price
+A- Found George_Allen
+B- Found Laura_Bush
+0
+Looking for faces in 445
+Looking for faces in 445
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/445/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/445/B.jpg
+A- Found Debra_Brown
+B- Found Bill_Stapleton
+B- Found Deb_Santos
+0
+Looking for faces in 446
+Looking for faces in 446
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/446/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/446/B.jpg
+A- Found Carlos_Juarez
+B- Found Andy_Roddick
+0
+Looking for faces in 447
+Looking for faces in 447
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/447/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/447/B.jpg
+A- Found Hamid_Karzai
+B- Found Max_Mayfield
+0
+Looking for faces in 448
+Looking for faces in 448
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/448/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/448/B.jpg
+A- Found Trent_Lott
+B- Found Stephen_Ebberharter
+0
+Looking for faces in 449
+Looking for faces in 449
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/449/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/449/B.jpg
+A- Found Allison_Janney
+B- Found Bill_Stapleton
+B- Found Deb_Santos
+0
+Looking for faces in 450
+Looking for faces in 450
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/450/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/450/B.jpg
+A- Found Mahmoud_Abbas
+B- Found Jan-Michael_Gambill
+0
+Looking for faces in 451
+Looking for faces in 451
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/451/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/451/B.jpg
+A- Found Horst_Koehler
+B- Found Yasser_Arafat
+0
+Looking for faces in 452
+Looking for faces in 452
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/452/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/452/B.jpg
+A- Found Zhu_Rongji
+B- Found Zhu_Rongji
+1
+Looking for faces in 453
+Looking for faces in 453
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/453/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/453/B.jpg
+A- Found Jeff_Weaver
+A- Found Luis_Horna
+B- Found Nate_Hybl
+0
+Looking for faces in 454
+Looking for faces in 454
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/454/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/454/B.jpg
+A- Found Adisai_Bodharamik
+B- Found Norah_Jones
+0
+Looking for faces in 455
+Looking for faces in 455
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/455/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/455/B.jpg
+A- Found Blythe_Hartley
+B- Found Norodom_Sihanouk
+0
+Looking for faces in 456
+Looking for faces in 456
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/456/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/456/B.jpg
+A- Found Mian_Khursheed_Mehmood_Kasuri
+B- Found Ariel_Sharon
+0
+Looking for faces in 457
+Looking for faces in 457
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/457/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/457/B.jpg
+A- Found Joan_Laporta
+B- Found Joan_Laporta
+1
+Looking for faces in 458
+Looking for faces in 458
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/458/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/458/B.jpg
+A- Found Herb_Sendek
+B- Found Junichiro_Koizumi
+0
+Looking for faces in 459
+Looking for faces in 459
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/459/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/459/B.jpg
+A- Found Kofi_Annan
+B- Found James_Blake
+0
+Looking for faces in 460
+Looking for faces in 460
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/460/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/460/B.jpg
+A- Found Halle_Berry
+B- Found Inga_Hall
+0
+Looking for faces in 461
+Looking for faces in 461
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/461/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/461/B.jpg
+A- Found Mohammad_Fares
+B- Found Sergio_Vieira_De_Mello
+0
+Looking for faces in 462
+Looking for faces in 462
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/462/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/462/B.jpg
+A- Found Tracee_Treadwell
+B- Found Alex_Barros
+0
+Looking for faces in 463
+Looking for faces in 463
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/463/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/463/B.jpg
+A- Found Richard_Lennon
+B- Found Norah_Jones
+0
+Looking for faces in 464
+Looking for faces in 464
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/464/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/464/B.jpg
+A- Found David_Wells
+B- Found Elizabeth_Smart
+0
+Looking for faces in 465
+Looking for faces in 465
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/465/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/465/B.jpg
+A- Found Jesse_James
+B- Found Jesse_James
+1
+Looking for faces in 466
+Looking for faces in 466
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/466/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/466/B.jpg
+A- Found Miguel_Contreras
+B- Found Richard_Virenque
+0
+Looking for faces in 467
+Looking for faces in 467
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/467/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/467/B.jpg
+A- Found Dave_Tucker
+B- Found Rolandas_Paksas
+0
+Looking for faces in 468
+Looking for faces in 468
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/468/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/468/B.jpg
+A- Found Ricardo_Mayorga
+B- Found Hassan_Nasrallah
+0
+Looking for faces in 469
+Looking for faces in 469
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/469/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/469/B.jpg
+A- Found Enrique_Bolanos
+B- Found Terry_Bradshaw
+0
+Looking for faces in 470
+Looking for faces in 470
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/470/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/470/B.jpg
+A- Found George_Robertson
+B- Found George_Robertson
+B- Found Larry_Pleau
+B- Found Cristiano_da_Matta
+0
+Looking for faces in 471
+Looking for faces in 471
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/471/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/471/B.jpg
+A- Found John_Jumper
+B- Found Iran_Brown
+0
+Looking for faces in 472
+Looking for faces in 472
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/472/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/472/B.jpg
+A- Found Donald_Rumsfeld
+B- Found Jean_Chretien
+0
+Looking for faces in 473
+Looking for faces in 473
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/473/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/473/B.jpg
+A- Found Bob_Beauprez
+B- Found Gerhard_Schroeder
+0
+Looking for faces in 474
+Looking for faces in 474
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/474/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/474/B.jpg
+A- Found Ai_Sugiyama
+B- Found Ai_Sugiyama
+1
+Looking for faces in 475
+Looking for faces in 475
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/475/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/475/B.jpg
+A- Found Jake_Gyllenhaal
+B- Found Jake_Gyllenhaal
+1
+Looking for faces in 476
+Looking for faces in 476
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/476/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/476/B.jpg
+A- Found Kathleen_Kennedy_Townsend
+B- Found Arantxa_Sanchez-Vicario
+0
+Looking for faces in 477
+Looking for faces in 477
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/477/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/477/B.jpg
+A- Found Mohammed_Al-Douri
+B- Found Isaiah_Washington
+0
+Looking for faces in 478
+Looking for faces in 478
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/478/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/478/B.jpg
+A- Found Allison_Janney
+B- Found Sophia_Loren
+0
+Looking for faces in 479
+Looking for faces in 479
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/479/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/479/B.jpg
+B- Found Herb_Sendek
+0
+Looking for faces in 480
+Looking for faces in 480
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/480/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/480/B.jpg
+A- Found Jean-Patrick_Nazon
+B- Found Zeljko_Rebraca
+0
+Looking for faces in 481
+Looking for faces in 481
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/481/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/481/B.jpg
+A- Found Saddam_Hussein
+B- Found Ernesto_Zedillo
+0
+Looking for faces in 482
+Looking for faces in 482
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/482/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/482/B.jpg
+A- Found Mahmoud_Abbas
+B- Found Noer_Muis
+0
+Looking for faces in 483
+Looking for faces in 483
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/483/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/483/B.jpg
+A- Found Sheryl_Crow
+B- Found Ludivine_Sagnier
+0
+Looking for faces in 484
+Looking for faces in 484
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/484/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/484/B.jpg
+A- Found Sharon_Osbourne
+B- Found Gray_Davis
+0
+Looking for faces in 485
+Looking for faces in 485
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/485/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/485/B.jpg
+A- Found Martha_Bowen
+B- Found Bill_Gates
+0
+Looking for faces in 486
+Looking for faces in 486
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/486/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/486/B.jpg
+A- Found Emanuel_Ginobili
+B- Found Emanuel_Ginobili
+1
+Looking for faces in 487
+Looking for faces in 487
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/487/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/487/B.jpg
+A- Found Brennon_Leighton
+B- Found Frank_Van_Ecke
+0
+Looking for faces in 488
+Looking for faces in 488
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/488/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/488/B.jpg
+A- Found Marion_Fahnestock
+B- Found Heizo_Takenaka
+0
+Looking for faces in 489
+Looking for faces in 489
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/489/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/489/B.jpg
+A- Found Alvaro_Uribe
+B- Found Bob_Iger
+0
+Looking for faces in 490
+Looking for faces in 490
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/490/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/490/B.jpg
+A- Found Ricardo_Maduro
+B- Found Abel_Aguilar
+0
+Looking for faces in 491
+Looking for faces in 491
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/491/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/491/B.jpg
+A- Found Anja_Paerson
+B- Found Tomas_Malik
+0
+Looking for faces in 492
+Looking for faces in 492
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/492/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/492/B.jpg
+A- Found Tom_Jones
+B- Found Noah_Wyle
+0
+Looking for faces in 493
+Looking for faces in 493
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/493/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/493/B.jpg
+A- Found Zeljko_Rebraca
+B- Found Ana_Palacio
+0
+Looking for faces in 494
+Looking for faces in 494
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/494/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/494/B.jpg
+A- Found Isaiah_Washington
+0
+Looking for faces in 495
+Looking for faces in 495
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/495/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/495/B.jpg
+A- Found Cesar_Gaviria
+B- Found Cesar_Gaviria
+1
+Looking for faces in 496
+Looking for faces in 496
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/496/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/496/B.jpg
+A- Found Ernesto_Zedillo
+B- Found Charlie_Hunnam
+0
+Looking for faces in 497
+Looking for faces in 497
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/497/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/497/B.jpg
+A- Found Jesse_Jackson
+B- Found Jesse_Jackson
+1
+Looking for faces in 498
+Looking for faces in 498
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/498/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/498/B.jpg
+A- Found Saddam_Hussein
+B- Found Joschka_Fischer
+0
+Looking for faces in 499
+Looking for faces in 499
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/499/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/499/B.jpg
+A- Found Kim_Clijsters
+B- Found Yu_Shyi-kun
+0
+Looking for faces in 500
+Looking for faces in 500
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/500/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/500/B.jpg
+A- Found Hamid_Karzai
+B- Found Jon_Gruden
+0
+Looking for faces in 501
+Looking for faces in 501
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/501/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/501/B.jpg
+A- Found John_Velazquez
+B- Found Casy_Preslar
+0
+Looking for faces in 502
+Looking for faces in 502
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/502/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/502/B.jpg
+A- Found Erin_Runnion
+B- Found Elvis_Stojko
+0
+Looking for faces in 503
+Looking for faces in 503
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/503/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/503/B.jpg
+A- Found James_Wolfensohn
+B- Found James_Wolfensohn
+1
+Looking for faces in 504
+Looking for faces in 504
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/504/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/504/B.jpg
+A- Found Tang_Jiaxuan
+B- Found Mary_Jo_Myers
+0
+Looking for faces in 505
+Looking for faces in 505
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/505/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/505/B.jpg
+A- Found Kirsten_Gilham
+A- Found Robbie_Coltrane
+B- Found Kirsten_Gilham
+0
+Looking for faces in 506
+Looking for faces in 506
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/506/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/506/B.jpg
+A- Found Melanie_Griffith
+A- Found Heather_Mills
+B- Found Heather_Mills
+1
+Looking for faces in 507
+Looking for faces in 507
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/507/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/507/B.jpg
+A- Found Ariel_Sharon
+B- Found Ariel_Sharon
+1
+Looking for faces in 508
+Looking for faces in 508
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/508/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/508/B.jpg
+A- Found Kemal_Dervis
+B- Found John_Manley
+0
+Looking for faces in 509
+Looking for faces in 509
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/509/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/509/B.jpg
+A- Found Serena_Williams
+B- Found Arlen_Specter
+0
+Looking for faces in 510
+Looking for faces in 510
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/510/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/510/B.jpg
+A- Found Tony_Blair
+B- Found Sheila_Copps
+0
+Looking for faces in 511
+Looking for faces in 511
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/511/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/511/B.jpg
+A- Found George_HW_Bush
+B- Found Jean-Francois_Pontal
+0
+Looking for faces in 512
+Looking for faces in 512
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/512/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/512/B.jpg
+A- Found Mark_Bellhorn
+B- Found Nate_Hybl
+0
+Looking for faces in 513
+Looking for faces in 513
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/513/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/513/B.jpg
+A- Found Antonio_Banderas
+A- Found Nastassia_Kinski
+B- Found Alicia_Silverstone
+0
+Looking for faces in 514
+Looking for faces in 514
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/514/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/514/B.jpg
+A- Found Fabrice_Santoro
+B- Found Fabrice_Santoro
+B- Found Bob_Crippen
+0
+Looking for faces in 515
+Looking for faces in 515
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/515/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/515/B.jpg
+A- Found Ricardo_Mayorga
+B- Found Maria_Shriver
+B- Found Romano_Prodi
+0
+Looking for faces in 516
+Looking for faces in 516
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/516/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/516/B.jpg
+A- Found Paul_Martin
+B- Found Paul_Martin
+1
+Looking for faces in 517
+Looking for faces in 517
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/517/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/517/B.jpg
+A- Found Andy_Griffith
+B- Found Linda_Baboolal
+0
+Looking for faces in 518
+Looking for faces in 518
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/518/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/518/B.jpg
+A- Found Justin_Timberlake
+B- Found Martin_Kristof
+0
+Looking for faces in 519
+Looking for faces in 519
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/519/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/519/B.jpg
+A- Found Raquel_Welch
+B- Found Paul_Luvera
+0
+Looking for faces in 520
+Looking for faces in 520
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/520/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/520/B.jpg
+A- Found Ana_Palacio
+B- Found Mike_Leach
+0
+Looking for faces in 521
+Looking for faces in 521
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/521/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/521/B.jpg
+A- Found Joan_Laporta
+B- Found Joan_Laporta
+1
+Looking for faces in 522
+Looking for faces in 522
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/522/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/522/B.jpg
+A- Found James_Kelly
+B- Found Phil_Mickelson
+0
+Looking for faces in 523
+Looking for faces in 523
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/523/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/523/B.jpg
+A- Found Keith_Bishop_Jr
+A- Found Kevin_James
+B- Found Donald_Fehr
+0
+Looking for faces in 524
+Looking for faces in 524
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/524/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/524/B.jpg
+A- Found Yuvraj_Singh
+B- Found Mark_Schweiker
+0
+Looking for faces in 525
+Looking for faces in 525
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/525/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/525/B.jpg
+A- Found Terry_Bradshaw
+B- Found Michael_Bloomberg
+0
+Looking for faces in 526
+Looking for faces in 526
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/526/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/526/B.jpg
+A- Found Patrick_Ewing
+A- Found Michael_Kors
+B- Found Nate_Hybl
+0
+Looking for faces in 527
+Looking for faces in 527
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/527/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/527/B.jpg
+A- Found Paddy_Torsney
+A- Found Joxel_Garcia
+B- Found Paul_Ebert
+0
+Looking for faces in 528
+Looking for faces in 528
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/528/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/528/B.jpg
+A- Found George_W_Bush
+B- Found James_Smith
+0
+Looking for faces in 529
+Looking for faces in 529
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/529/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/529/B.jpg
+A- Found Gray_Davis
+B- Found Akbar_Hashemi_Rafsanjani
+0
+Looking for faces in 530
+Looking for faces in 530
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/530/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/530/B.jpg
+A- Found Bill_Frist
+B- Found Lee_Byung-woong
+0
+Looking for faces in 531
+Looking for faces in 531
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/531/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/531/B.jpg
+A- Found Michelle_Kwan
+B- Found Yoriko_Kawaguchi
+0
+Looking for faces in 532
+Looking for faces in 532
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/532/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/532/B.jpg
+A- Found Jennifer_Lopez
+B- Found Jennifer_Lopez
+1
+Looking for faces in 533
+Looking for faces in 533
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/533/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/533/B.jpg
+A- Found Peter_Fisher
+B- Found John_Rowland
+0
+Looking for faces in 534
+Looking for faces in 534
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/534/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/534/B.jpg
+A- Found Richard_Lennon
+B- Found Ernesto_Zedillo
+0
+Looking for faces in 535
+Looking for faces in 535
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/535/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/535/B.jpg
+A- Found Joe_Glover
+B- Found Jeremy_Greenstock
+0
+Looking for faces in 536
+Looking for faces in 536
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/536/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/536/B.jpg
+A- Found Albert_Pujols
+A- Found Joe_Gatti
+B- Found Paddy_Torsney
+B- Found Joxel_Garcia
+0
+Looking for faces in 537
+Looking for faces in 537
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/537/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/537/B.jpg
+A- Found Gray_Davis
+B- Found Barry_Collier
+0
+Looking for faces in 538
+Looking for faces in 538
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/538/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/538/B.jpg
+A- Found John_Bolton
+B- Found John_Bolton
+1
+Looking for faces in 539
+Looking for faces in 539
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/539/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/539/B.jpg
+A- Found Lazaro_Castro
+B- Found Omar_Sharif
+0
+Looking for faces in 540
+Looking for faces in 540
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/540/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/540/B.jpg
+A- Found Sharon_Stone
+B- Found Kim_Dong-hwa
+0
+Looking for faces in 541
+Looking for faces in 541
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/541/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/541/B.jpg
+A- Found Binyamin_Ben-Eliezer
+B- Found Iran_Brown
+0
+Looking for faces in 542
+Looking for faces in 542
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/542/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/542/B.jpg
+A- Found Yashwant_Sinha
+B- Found Hashan_Tillakaratne
+0
+Looking for faces in 543
+Looking for faces in 543
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/543/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/543/B.jpg
+A- Found Mohammed_Al-Douri
+B- Found Kofi_Annan
+0
+Looking for faces in 544
+Looking for faces in 544
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/544/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/544/B.jpg
+A- Found Keanu_Reeves
+B- Found Chris_Kolanas
+0
+Looking for faces in 545
+Looking for faces in 545
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/545/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/545/B.jpg
+A- Found George_W_Bush
+B- Found James_Kelly
+0
+Looking for faces in 546
+Looking for faces in 546
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/546/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/546/B.jpg
+A- Found Paul_Kelleher
+B- Found Michael_Kostelnik
+0
+Looking for faces in 547
+Looking for faces in 547
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/547/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/547/B.jpg
+A- Found Arminio_Fraga
+B- Found Arminio_Fraga
+1
+Looking for faces in 548
+Looking for faces in 548
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/548/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/548/B.jpg
+A- Found Allison_Janney
+B- Found Norah_Jones
+0
+Looking for faces in 549
+Looking for faces in 549
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/549/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/549/B.jpg
+A- Found John_Sidgmore
+B- Found Dan_Bartlett
+0
+Looking for faces in 550
+Looking for faces in 550
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/550/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/550/B.jpg
+A- Found Jon_Gruden
+B- Found Jon_Gruden
+1
+Looking for faces in 551
+Looking for faces in 551
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/551/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/551/B.jpg
+A- Found Sergei_Ivanov
+B- Found Hashan_Tillakaratne
+0
+Looking for faces in 552
+Looking for faces in 552
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/552/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/552/B.jpg
+A- Found Kevin_Stallings
+B- Found Christopher_Speer
+0
+Looking for faces in 553
+Looking for faces in 553
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/553/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/553/B.jpg
+A- Found Tony_Blair
+B- Found Gustavo_Franco
+0
+Looking for faces in 554
+Looking for faces in 554
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/554/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/554/B.jpg
+A- Found Jennifer_Lopez
+B- Found Jennifer_Lopez
+1
+Looking for faces in 555
+Looking for faces in 555
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/555/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/555/B.jpg
+A- Found Bob_Beauprez
+B- Found Robert_Altman
+B- Found John_Stallworth
+0
+Looking for faces in 556
+Looking for faces in 556
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/556/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/556/B.jpg
+A- Found George_W_Bush
+B- Found George_W_Bush
+1
+Looking for faces in 557
+Looking for faces in 557
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/557/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/557/B.jpg
+A- Found Donald_Rumsfeld
+B- Found Benjamin_Martinez
+0
+Looking for faces in 558
+Looking for faces in 558
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/558/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/558/B.jpg
+A- Found Tom_OBrien
+B- Found Tom_OBrien
+1
+Looking for faces in 559
+Looking for faces in 559
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/559/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/559/B.jpg
+A- Found Andy_Dick
+B- Found Mohammed_Al-Douri
+0
+Looking for faces in 560
+Looking for faces in 560
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/560/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/560/B.jpg
+A- Found Mohammad_Khatami
+A- Found James_Sensenbrenner
+A- Found Carlos_Moya
+B- Found James_Sensenbrenner
+0
+Looking for faces in 561
+Looking for faces in 561
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/561/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/561/B.jpg
+A- Found Marquis_Estill
+B- Found Vanessa_Redgrave
+0
+Looking for faces in 562
+Looking for faces in 562
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/562/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/562/B.jpg
+A- Found Bill_Clinton
+B- Found Bill_Clinton
+1
+Looking for faces in 563
+Looking for faces in 563
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/563/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/563/B.jpg
+A- Found Karen_Sharpe_Kramer
+B- Found Veronica_Lake
+0
+Looking for faces in 564
+Looking for faces in 564
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/564/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/564/B.jpg
+A- Found Junichiro_Koizumi
+B- Found Junichiro_Koizumi
+1
+Looking for faces in 565
+Looking for faces in 565
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/565/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/565/B.jpg
+A- Found Princess_Elisabeth
+B- Found Mahmoud_Abbas
+0
+Looking for faces in 566
+Looking for faces in 566
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/566/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/566/B.jpg
+A- Found George_W_Bush
+B- Found Enrique_Bolanos
+0
+Looking for faces in 567
+Looking for faces in 567
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/567/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/567/B.jpg
+A- Found John_Rosa
+B- Found Jean_Chretien
+0
+Looking for faces in 568
+Looking for faces in 568
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/568/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/568/B.jpg
+A- Found Hamid_Karzai
+B- Found Pierce_Brosnan
+0
+Looking for faces in 569
+Looking for faces in 569
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/569/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/569/B.jpg
+A- Found Jim_Furyk
+B- Found Jim_Furyk
+1
+Looking for faces in 570
+Looking for faces in 570
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/570/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/570/B.jpg
+A- Found Gary_Locke
+A- Found Ian_Knop
+B- Found Gunter_Pleuger
+0
+Looking for faces in 571
+Looking for faces in 571
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/571/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/571/B.jpg
+A- Found Juan_Carlos_Ferrero
+B- Found Robert_Duvall
+0
+Looking for faces in 572
+Looking for faces in 572
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/572/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/572/B.jpg
+A- Found Stefan_Tafrov
+A- Found Sebastian_Saja
+B- Found Najib_al-Salhi
+0
+Looking for faces in 573
+Looking for faces in 573
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/573/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/573/B.jpg
+A- Found Michael_Bloomberg
+B- Found Michael_Bloomberg
+1
+Looking for faces in 574
+Looking for faces in 574
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/574/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/574/B.jpg
+A- Found John_Paul_II
+B- Found Britney_Spears
+0
+Looking for faces in 575
+Looking for faces in 575
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/575/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/575/B.jpg
+A- Found Saddam_Hussein
+B- Found Martin_Cauchon
+0
+Looking for faces in 576
+Looking for faces in 576
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/576/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/576/B.jpg
+A- Found James_Sensenbrenner
+B- Found James_Sensenbrenner
+1
+Looking for faces in 577
+Looking for faces in 577
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/577/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/577/B.jpg
+A- Found Julia_Tymoshenko
+B- Found George_W_Bush
+0
+Looking for faces in 578
+Looking for faces in 578
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/578/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/578/B.jpg
+A- Found Joaquin_Sanchez
+B- Found Carla_Sullivan
+0
+Looking for faces in 579
+Looking for faces in 579
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/579/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/579/B.jpg
+A- Found Kay_Bailey_Hutchison
+B- Found Kay_Bailey_Hutchison
+1
+Looking for faces in 580
+Looking for faces in 580
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/580/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/580/B.jpg
+A- Found Des_Brown
+A- Found Mohamed_Benaissa
+B- Found Kamal_Kharrazi
+0
+Looking for faces in 581
+Looking for faces in 581
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/581/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/581/B.jpg
+A- Found Prince_Claus
+B- Found Jacqueline_Obradors
+0
+Looking for faces in 582
+Looking for faces in 582
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/582/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/582/B.jpg
+A- Found Mark_Dacey
+B- Found Tony_Blair
+0
+Looking for faces in 583
+Looking for faces in 583
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/583/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/583/B.jpg
+A- Found Abel_Aguilar
+B- Found Ian_Campbell
+0
+Looking for faces in 584
+Looking for faces in 584
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/584/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/584/B.jpg
+A- Found Kamal_Kharrazi
+A- Found Mahmoud_Abbas
+A- Found Abid_Hamid_Mahmud_Al-Tikriti
+B- Found Kamal_Kharrazi
+0
+Looking for faces in 585
+Looking for faces in 585
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/585/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/585/B.jpg
+A- Found Taku_Yamasaki
+B- Found Terry_Lynn_Barton
+0
+Looking for faces in 586
+Looking for faces in 586
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/586/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/586/B.jpg
+A- Found Torri_Edwards
+B- Found Aiysha_Smith
+0
+Looking for faces in 587
+Looking for faces in 587
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/587/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/587/B.jpg
+A- Found Britney_Spears
+B- Found Alexandra_Pelosi
+0
+Looking for faces in 588
+Looking for faces in 588
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/588/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/588/B.jpg
+A- Found Mike_Sherman
+B- Found Alicia_Silverstone
+0
+Looking for faces in 589
+Looking for faces in 589
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/589/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/589/B.jpg
+A- Found Janette_Husarova
+B- Found Tom_Daschle
+0
+Looking for faces in 590
+Looking for faces in 590
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/590/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/590/B.jpg
+A- Found Leslie_Caldwell
+B- Found Troy_Hudson
+0
+Looking for faces in 591
+Looking for faces in 591
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/591/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/591/B.jpg
+A- Found Debra_Brown
+B- Found Brad_Alexander_Smith
+0
+Looking for faces in 592
+Looking for faces in 592
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/592/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/592/B.jpg
+A- Found Colin_Powell
+B- Found Garry_Kasparov
+0
+Looking for faces in 593
+Looking for faces in 593
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/593/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/593/B.jpg
+A- Found Stefan_Holm
+B- Found Tom_Daschle
+0
+Looking for faces in 594
+Looking for faces in 594
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/594/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/594/B.jpg
+A- Found Evander_Holyfield
+B- Found Justin_Gatlin
+0
+Looking for faces in 595
+Looking for faces in 595
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/595/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/595/B.jpg
+A- Found Saddam_Hussein
+B- Found Angela_Bassett
+0
+Looking for faces in 596
+Looking for faces in 596
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/596/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/596/B.jpg
+A- Found John_Velazquez
+B- Found Mike_Krzyzewski
+0
+Looking for faces in 597
+Looking for faces in 597
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/597/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/597/B.jpg
+A- Found Ai_Sugiyama
+B- Found Ai_Sugiyama
+1
+Looking for faces in 598
+Looking for faces in 598
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/598/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/598/B.jpg
+A- Found Lance_Armstrong
+B- Found Billy_Crystal
+0
+Looking for faces in 599
+Looking for faces in 599
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/599/A.jpg
+/Users/yelimkim/dlib/Deep_Learning_Project/dataset/test_pair/599/B.jpg
+A- Found Ben_Affleck
+B- Found Manuel_Llorente
+0
+{}-1 0
+{}-0 1
+{}-0 2
+{}-0 3
+{}-0 4
+{}-0 5
+{}-0 6
+{}-0 7
+{}-1 8
+{}-0 9
+{}-1 10
+{}-1 11
+{}-1 12
+{}-1 13
+{}-0 14
+{}-1 15
+{}-0 16
+{}-0 17
+{}-0 18
+{}-0 19
+{}-0 20
+{}-0 21
+{}-0 22
+{}-0 23
+{}-0 24
+{}-1 25
+{}-1 26
+{}-1 27
+{}-0 28
+{}-1 29
+{}-0 30
+{}-0 31
+{}-1 32
+{}-0 33
+{}-0 34
+{}-0 35
+{}-0 36
+{}-0 37
+{}-0 38
+{}-0 39
+{}-1 40
+{}-0 41
+{}-1 42
+{}-0 43
+{}-0 44
+{}-0 45
+{}-0 46
+{}-1 47
+{}-0 48
+{}-0 49
+{}-0 50
+{}-0 51
+{}-0 52
+{}-0 53
+{}-1 54
+{}-0 55
+{}-0 56
+{}-0 57
+{}-1 58
+{}-0 59
+{}-0 60
+{}-1 61
+{}-0 62
+{}-1 63
+{}-0 64
+{}-0 65
+{}-0 66
+{}-0 67
+{}-0 68
+{}-0 69
+{}-0 70
+{}-0 71
+{}-0 72
+{}-0 73
+{}-0 74
+{}-0 75
+{}-0 76
+{}-0 77
+{}-0 78
+{}-0 79
+{}-0 80
+{}-0 81
+{}-0 82
+{}-0 83
+{}-0 84
+{}-1 85
+{}-1 86
+{}-0 87
+{}-0 88
+{}-0 89
+{}-1 90
+{}-0 91
+{}-0 92
+{}-0 93
+{}-0 94
+{}-0 95
+{}-0 96
+{}-0 97
+{}-0 98
+{}-1 99
+{}-0 100
+{}-0 101
+{}-0 102
+{}-0 103
+{}-0 104
+{}-1 105
+{}-1 106
+{}-0 107
+{}-0 108
+{}-0 109
+{}-0 110
+{}-0 111
+{}-1 112
+{}-0 113
+{}-0 114
+{}-0 115
+{}-0 116
+{}-0 117
+{}-0 118
+{}-0 119
+{}-0 120
+{}-0 121
+{}-0 122
+{}-0 123
+{}-1 124
+{}-0 125
+{}-0 126
+{}-0 127
+{}-0 128
+{}-0 129
+{}-1 130
+{}-0 131
+{}-0 132
+{}-1 133
+{}-0 134
+{}-0 135
+{}-0 136
+{}-1 137
+{}-0 138
+{}-0 139
+{}-0 140
+{}-0 141
+{}-0 142
+{}-0 143
+{}-0 144
+{}-0 145
+{}-0 146
+{}-1 147
+{}-1 148
+{}-0 149
+{}-0 150
+{}-0 151
+{}-0 152
+{}-0 153
+{}-0 154
+{}-1 155
+{}-0 156
+{}-0 157
+{}-0 158
+{}-0 159
+{}-0 160
+{}-0 161
+{}-0 162
+{}-0 163
+{}-0 164
+{}-0 165
+{}-0 166
+{}-0 167
+{}-0 168
+{}-1 169
+{}-1 170
+{}-0 171
+{}-0 172
+{}-0 173
+{}-0 174
+{}-0 175
+{}-0 176
+{}-0 177
+{}-0 178
+{}-0 179
+{}-1 180
+{}-1 181
+{}-0 182
+{}-0 183
+{}-1 184
+{}-1 185
+{}-0 186
+{}-0 187
+{}-0 188
+{}-0 189
+{}-0 190
+{}-0 191
+{}-0 192
+{}-0 193
+{}-0 194
+{}-0 195
+{}-0 196
+{}-0 197
+{}-1 198
+{}-0 199
+{}-0 200
+{}-0 201
+{}-0 202
+{}-0 203
+{}-0 204
+{}-1 205
+{}-0 206
+{}-0 207
+{}-0 208
+{}-0 209
+{}-0 210
+{}-1 211
+{}-0 212
+{}-1 213
+{}-1 214
+{}-0 215
+{}-1 216
+{}-1 217
+{}-0 218
+{}-0 219
+{}-1 220
+{}-0 221
+{}-0 222
+{}-1 223
+{}-0 224
+{}-0 225
+{}-0 226
+{}-0 227
+{}-1 228
+{}-0 229
+{}-0 230
+{}-0 231
+{}-0 232
+{}-0 233
+{}-0 234
+{}-0 235
+{}-0 236
+{}-0 237
+{}-0 238
+{}-1 239
+{}-1 240
+{}-0 241
+{}-0 242
+{}-0 243
+{}-1 244
+{}-0 245
+{}-0 246
+{}-0 247
+{}-0 248
+{}-0 249
+{}-0 250
+{}-1 251
+{}-0 252
+{}-0 253
+{}-0 254
+{}-0 255
+{}-1 256
+{}-1 257
+{}-0 258
+{}-0 259
+{}-0 260
+{}-0 261
+{}-0 262
+{}-0 263
+{}-1 264
+{}-0 265
+{}-1 266
+{}-1 267
+{}-0 268
+{}-0 269
+{}-1 270
+{}-1 271
+{}-0 272
+{}-0 273
+{}-1 274
+{}-1 275
+{}-0 276
+{}-0 277
+{}-0 278
+{}-0 279
+{}-0 280
+{}-0 281
+{}-1 282
+{}-0 283
+{}-0 284
+{}-0 285
+{}-0 286
+{}-1 287
+{}-0 288
+{}-0 289
+{}-0 290
+{}-1 291
+{}-0 292
+{}-0 293
+{}-1 294
+{}-0 295
+{}-0 296
+{}-0 297
+{}-0 298
+{}-0 299
+{}-0 300
+{}-0 301
+{}-1 302
+{}-0 303
+{}-1 304
+{}-1 305
+{}-1 306
+{}-0 307
+{}-0 308
+{}-0 309
+{}-0 310
+{}-1 311
+{}-1 312
+{}-0 313
+{}-0 314
+{}-0 315
+{}-0 316
+{}-1 317
+{}-1 318
+{}-1 319
+{}-0 320
+{}-0 321
+{}-0 322
+{}-0 323
+{}-0 324
+{}-0 325
+{}-0 326
+{}-0 327
+{}-0 328
+{}-0 329
+{}-1 330
+{}-1 331
+{}-0 332
+{}-0 333
+{}-0 334
+{}-0 335
+{}-0 336
+{}-0 337
+{}-1 338
+{}-0 339
+{}-0 340
+{}-0 341
+{}-1 342
+{}-0 343
+{}-0 344
+{}-1 345
+{}-1 346
+{}-0 347
+{}-0 348
+{}-0 349
+{}-0 350
+{}-1 351
+{}-0 352
+{}-0 353
+{}-1 354
+{}-0 355
+{}-0 356
+{}-1 357
+{}-0 358
+{}-0 359
+{}-0 360
+{}-0 361
+{}-0 362
+{}-0 363
+{}-0 364
+{}-0 365
+{}-1 366
+{}-0 367
+{}-1 368
+{}-0 369
+{}-0 370
+{}-0 371
+{}-0 372
+{}-0 373
+{}-0 374
+{}-0 375
+{}-0 376
+{}-1 377
+{}-0 378
+{}-0 379
+{}-1 380
+{}-0 381
+{}-0 382
+{}-0 383
+{}-0 384
+{}-0 385
+{}-1 386
+{}-1 387
+{}-0 388
+{}-0 389
+{}-0 390
+{}-1 391
+{}-0 392
+{}-0 393
+{}-0 394
+{}-0 395
+{}-0 396
+{}-0 397
+{}-0 398
+{}-1 399
+{}-0 400
+{}-0 401
+{}-0 402
+{}-0 403
+{}-0 404
+{}-0 405
+{}-0 406
+{}-0 407
+{}-0 408
+{}-0 409
+{}-1 410
+{}-0 411
+{}-0 412
+{}-0 413
+{}-0 414
+{}-0 415
+{}-0 416
+{}-0 417
+{}-0 418
+{}-0 419
+{}-1 420
+{}-0 421
+{}-0 422
+{}-1 423
+{}-1 424
+{}-1 425
+{}-1 426
+{}-1 427
+{}-0 428
+{}-0 429
+{}-0 430
+{}-0 431
+{}-0 432
+{}-0 433
+{}-0 434
+{}-0 435
+{}-1 436
+{}-0 437
+{}-0 438
+{}-0 439
+{}-1 440
+{}-0 441
+{}-0 442
+{}-0 443
+{}-0 444
+{}-0 445
+{}-0 446
+{}-0 447
+{}-0 448
+{}-0 449
+{}-0 450
+{}-0 451
+{}-1 452
+{}-0 453
+{}-0 454
+{}-0 455
+{}-0 456
+{}-1 457
+{}-0 458
+{}-0 459
+{}-0 460
+{}-0 461
+{}-0 462
+{}-0 463
+{}-0 464
+{}-1 465
+{}-0 466
+{}-0 467
+{}-0 468
+{}-0 469
+{}-0 470
+{}-0 471
+{}-0 472
+{}-0 473
+{}-1 474
+{}-1 475
+{}-0 476
+{}-0 477
+{}-0 478
+{}-0 479
+{}-0 480
+{}-0 481
+{}-0 482
+{}-0 483
+{}-0 484
+{}-0 485
+{}-1 486
+{}-0 487
+{}-0 488
+{}-0 489
+{}-0 490
+{}-0 491
+{}-0 492
+{}-0 493
+{}-0 494
+{}-1 495
+{}-0 496
+{}-1 497
+{}-0 498
+{}-0 499
+{}-0 500
+{}-0 501
+{}-0 502
+{}-1 503
+{}-0 504
+{}-0 505
+{}-1 506
+{}-1 507
+{}-0 508
+{}-0 509
+{}-0 510
+{}-0 511
+{}-0 512
+{}-0 513
+{}-0 514
+{}-0 515
+{}-1 516
+{}-0 517
+{}-0 518
+{}-0 519
+{}-0 520
+{}-1 521
+{}-0 522
+{}-0 523
+{}-0 524
+{}-0 525
+{}-0 526
+{}-0 527
+{}-0 528
+{}-0 529
+{}-0 530
+{}-0 531
+{}-1 532
+{}-0 533
+{}-0 534
+{}-0 535
+{}-0 536
+{}-0 537
+{}-1 538
+{}-0 539
+{}-0 540
+{}-0 541
+{}-0 542
+{}-0 543
+{}-0 544
+{}-0 545
+{}-0 546
+{}-1 547
+{}-0 548
+{}-0 549
+{}-1 550
+{}-0 551
+{}-0 552
+{}-0 553
+{}-1 554
+{}-0 555
+{}-1 556
+{}-0 557
+{}-1 558
+{}-0 559
+{}-0 560
+{}-0 561
+{}-1 562
+{}-0 563
+{}-1 564
+{}-0 565
+{}-0 566
+{}-0 567
+{}-0 568
+{}-1 569
+{}-0 570
+{}-0 571
+{}-0 572
+{}-1 573
+{}-0 574
+{}-0 575
+{}-1 576
+{}-0 577
+{}-0 578
+{}-1 579
+{}-0 580
+{}-0 581
+{}-0 582
+{}-0 583
+{}-0 584
+{}-0 585
+{}-0 586
+{}-0 587
+{}-0 588
+{}-0 589
+{}-0 590
+{}-0 591
+{}-0 592
+{}-0 593
+{}-0 594
+{}-0 595
+{}-0 596
+{}-1 597
+{}-0 598
+{}-0 599
